@@ -12,17 +12,7 @@ The repository is organized by problem categories such as `Arrays`, `Strings`, `
 - Open the `.cpp` file to view the solution.
 
 ## Problems Solved
-- https://leetcode.com/problems/add-two-numbers/description/
-- https://leetcode.com/problems/two-sum/description/
-- https://leetcode.com/problems/height-checker/description/
-- https://leetcode.com/problems/reverse-integer/description/
-- https://leetcode.com/problems/palindrome-number/description/
-- https://leetcode.com/problems/search-in-rotated-sorted-array/description/
-- https://leetcode.com/problems/continuous-subarray-sum/description/
-- https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
-- https://leetcode.com/problems/relative-sort-array/description/
-- https://leetcode.com/problems/sort-colors/description/
-- https://leetcode.com/problems/string-to-integer-atoi/
+Refer to ./ProblemsSolved.md
 
 ## Contributing
 While this repository serves as a personal record of my problem-solving journey, contributions in the form of optimizations, alternative solutions, or fixes are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
