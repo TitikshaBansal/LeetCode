@@ -9,3 +9,5 @@
 - https://leetcode.com/problems/relative-sort-array/description/
 - https://leetcode.com/problems/sort-colors/description/
 - https://leetcode.com/problems/string-to-integer-atoi/
+- https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
+- https://leetcode.com/problems/divide-two-integers/description/
