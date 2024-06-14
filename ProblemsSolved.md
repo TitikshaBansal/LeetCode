@@ -11,3 +11,6 @@
 - https://leetcode.com/problems/string-to-integer-atoi/
 - https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/
 - https://leetcode.com/problems/divide-two-integers/description/
+- https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/
+- https://leetcode.com/problems/remove-element/description/
+- https://leetcode.com/problems/search-insert-position/description/
