@@ -14,3 +14,7 @@
 - https://leetcode.com/problems/minimum-increment-to-make-array-unique/description/
 - https://leetcode.com/problems/remove-element/description/
 - https://leetcode.com/problems/search-insert-position/description/
+- https://leetcode.com/problems/reverse-string/description/
+- https://leetcode.com/problems/score-of-a-string/description/
+- https://leetcode.com/problems/hand-of-straights/description/
+- https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/
