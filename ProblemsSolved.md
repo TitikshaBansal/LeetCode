@@ -18,3 +18,7 @@
 - https://leetcode.com/problems/score-of-a-string/description/
 - https://leetcode.com/problems/hand-of-straights/description/
 - https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/description/
+- https://leetcode.com/problems/valid-parentheses/description/
+- https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+- https://leetcode.com/problems/powx-n/description/
+- 
