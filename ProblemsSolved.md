@@ -21,4 +21,5 @@
 - https://leetcode.com/problems/valid-parentheses/description/
 - https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
 - https://leetcode.com/problems/powx-n/description/
-- 
+- https://leetcode.com/problems/find-the-duplicate-number/description/
+- https://leetcode.com/problems/sum-of-square-numbers/description/
