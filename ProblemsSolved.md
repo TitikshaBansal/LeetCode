@@ -23,3 +23,5 @@
 - https://leetcode.com/problems/powx-n/description/
 - https://leetcode.com/problems/find-the-duplicate-number/description/
 - https://leetcode.com/problems/sum-of-square-numbers/description/
+- https://leetcode.com/problems/most-profit-assigning-work/description/
+- https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/
