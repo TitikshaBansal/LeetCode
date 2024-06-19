@@ -25,3 +25,6 @@
 - https://leetcode.com/problems/sum-of-square-numbers/description/
 - https://leetcode.com/problems/most-profit-assigning-work/description/
 - https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/description/
+- https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
+- https://leetcode.com/problems/container-with-most-water/description/
+- https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
