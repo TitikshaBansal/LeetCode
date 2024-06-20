@@ -28,3 +28,5 @@
 - https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/
 - https://leetcode.com/problems/container-with-most-water/description/
 - https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+- https://leetcode.com/problems/magnetic-force-between-two-balls/description/
+- https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/
