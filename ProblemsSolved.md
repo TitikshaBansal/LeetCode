@@ -37,6 +37,7 @@
 - https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets
 - https://leetcode.com/problems/magnetic-force-between-two-balls
 - https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal
+- https://leetcode.com/problems/binary-tree-right-side-view/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
