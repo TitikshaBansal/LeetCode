@@ -13,6 +13,8 @@
 - https://leetcode.com/problems/valid-parentheses
 - https://leetcode.com/problems/palindrome-number
 - https://leetcode.com/problems/two-sum
+- https://leetcode.com/problems/same-tree/
+- https://leetcode.com/problems/symmetric-tree/description/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
