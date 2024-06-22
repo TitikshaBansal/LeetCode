@@ -15,6 +15,9 @@
 - https://leetcode.com/problems/two-sum
 - https://leetcode.com/problems/same-tree/
 - https://leetcode.com/problems/symmetric-tree/description/
+- https://leetcode.com/problems/binary-tree-inorder-traversal/description/
+- https://leetcode.com/problems/binary-tree-preorder-traversal/
+- https://leetcode.com/problems/binary-tree-postorder-traversal/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -40,6 +43,12 @@
 - https://leetcode.com/problems/magnetic-force-between-two-balls
 - https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal
 - https://leetcode.com/problems/binary-tree-right-side-view/description/
+- https://leetcode.com/problems/binary-subarrays-with-sum/
+- https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envType=daily-question&envId=2024-06-22
+- https://leetcode.com/problems/subarray-product-less-than-k/
+- https://leetcode.com/problems/contiguous-array/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
+- https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/
+- https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
