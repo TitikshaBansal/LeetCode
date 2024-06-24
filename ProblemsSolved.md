@@ -18,6 +18,7 @@
 - https://leetcode.com/problems/binary-tree-inorder-traversal/description/
 - https://leetcode.com/problems/binary-tree-preorder-traversal/
 - https://leetcode.com/problems/binary-tree-postorder-traversal/
+- https://leetcode.com/problems/sqrtx/description/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -47,8 +48,11 @@
 - https://leetcode.com/problems/count-number-of-nice-subarrays/description/?envType=daily-question&envId=2024-06-22
 - https://leetcode.com/problems/subarray-product-less-than-k/
 - https://leetcode.com/problems/contiguous-array/description/
+- https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/?envType=daily-question&envId=2024-06-23
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
 - https://leetcode.com/problems/count-subarrays-with-score-less-than-k/description/
 - https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
+- https://leetcode.com/problems/longest-valid-parentheses/
+- https://leetcode.com/problems/ipo/
