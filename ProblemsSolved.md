@@ -19,6 +19,7 @@
 - https://leetcode.com/problems/binary-tree-preorder-traversal/
 - https://leetcode.com/problems/binary-tree-postorder-traversal/
 - https://leetcode.com/problems/sqrtx/description/
+- https://leetcode.com/problems/maximum-depth-of-binary-tree/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
