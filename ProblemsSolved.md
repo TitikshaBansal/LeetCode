@@ -20,6 +20,8 @@
 - https://leetcode.com/problems/binary-tree-postorder-traversal/
 - https://leetcode.com/problems/sqrtx/description/
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- https://leetcode.com/problems/linked-list-cycle/
+- https://leetcode.com/problems/reverse-linked-list/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -50,6 +52,7 @@
 - https://leetcode.com/problems/subarray-product-less-than-k/
 - https://leetcode.com/problems/contiguous-array/description/
 - https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/?envType=daily-question&envId=2024-06-23
+- https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
