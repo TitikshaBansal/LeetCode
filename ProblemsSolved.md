@@ -22,6 +22,7 @@
 - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - https://leetcode.com/problems/linked-list-cycle/
 - https://leetcode.com/problems/reverse-linked-list/
+- https://leetcode.com/problems/power-of-two/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -53,6 +54,9 @@
 - https://leetcode.com/problems/contiguous-array/description/
 - https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/?envType=daily-question&envId=2024-06-23
 - https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
+- https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/
+- https://leetcode.com/problems/k-closest-points-to-origin/
+- https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
