@@ -57,6 +57,9 @@
 - https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/
 - https://leetcode.com/problems/k-closest-points-to-origin/
 - https://leetcode.com/problems/minimum-difference-between-largest-and-smallest-value-in-three-moves/
+- https://leetcode.com/problems/maximum-total-importance-of-roads/?envType=daily-question&envId=2024-06-28
+- https://leetcode.com/problems/set-matrix-zeroes/
+- https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
