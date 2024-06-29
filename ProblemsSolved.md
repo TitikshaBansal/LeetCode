@@ -23,6 +23,7 @@
 - https://leetcode.com/problems/linked-list-cycle/
 - https://leetcode.com/problems/reverse-linked-list/
 - https://leetcode.com/problems/power-of-two/
+- https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -60,6 +61,7 @@
 - https://leetcode.com/problems/maximum-total-importance-of-roads/?envType=daily-question&envId=2024-06-28
 - https://leetcode.com/problems/set-matrix-zeroes/
 - https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
+- https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
