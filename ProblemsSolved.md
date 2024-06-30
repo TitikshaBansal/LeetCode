@@ -25,6 +25,9 @@
 - https://leetcode.com/problems/power-of-two/
 - https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
 - https://leetcode.com/problems/balanced-binary-tree/
+- https://leetcode.com/problems/search-in-a-binary-search-tree/description/
+- https://leetcode.com/problems/palindrome-linked-list/
+- https://leetcode.com/problems/remove-linked-list-elements/description/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
