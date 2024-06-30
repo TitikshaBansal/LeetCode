@@ -28,6 +28,7 @@
 - https://leetcode.com/problems/search-in-a-binary-search-tree/description/
 - https://leetcode.com/problems/palindrome-linked-list/
 - https://leetcode.com/problems/remove-linked-list-elements/description/
+- https://leetcode.com/problems/middle-of-the-linked-list/description/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -69,6 +70,7 @@
 - leetcode.com/problems/delete-node-in-a-linked-list/
 - https://leetcode.com/problems/validate-binary-search-tree/
 - https://leetcode.com/problems/binary-tree-level-order-traversal/
+- https://leetcode.com/problems/remove-nodes-from-linked-list/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
