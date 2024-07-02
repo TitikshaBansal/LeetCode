@@ -29,6 +29,10 @@
 - https://leetcode.com/problems/palindrome-linked-list/
 - https://leetcode.com/problems/remove-linked-list-elements/description/
 - https://leetcode.com/problems/middle-of-the-linked-list/description/
+- https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01
+- https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
+- https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+- https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -71,6 +75,7 @@
 - https://leetcode.com/problems/validate-binary-search-tree/
 - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - https://leetcode.com/problems/remove-nodes-from-linked-list/description/
+- https://leetcode.com/problems/minimum-index-of-a-valid-split/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
