@@ -33,6 +33,10 @@
 - https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/
 - https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 - https://leetcode.com/problems/find-the-sum-of-encrypted-integers/
+- https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=daily-question&envId=2024-07-02
+- https://leetcode.com/problems/intersection-of-two-arrays/
+- https://leetcode.com/problems/intersection-of-two-linked-lists/
+- https://leetcode.com/problems/intersection-of-multiple-arrays/description/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -83,3 +87,4 @@
 - https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 - https://leetcode.com/problems/longest-valid-parentheses/
 - https://leetcode.com/problems/ipo/
+- https://leetcode.com/problems/tallest-billboard/
