@@ -37,6 +37,7 @@
 - https://leetcode.com/problems/intersection-of-two-arrays/
 - https://leetcode.com/problems/intersection-of-two-linked-lists/
 - https://leetcode.com/problems/intersection-of-multiple-arrays/description/
+- https://leetcode.com/problems/smallest-even-multiple/description/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -80,6 +81,7 @@
 - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - https://leetcode.com/problems/remove-nodes-from-linked-list/description/
 - https://leetcode.com/problems/minimum-index-of-a-valid-split/description/
+- https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
@@ -88,3 +90,4 @@
 - https://leetcode.com/problems/longest-valid-parentheses/
 - https://leetcode.com/problems/ipo/
 - https://leetcode.com/problems/tallest-billboard/
+- https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
