@@ -82,6 +82,7 @@
 - https://leetcode.com/problems/remove-nodes-from-linked-list/description/
 - https://leetcode.com/problems/minimum-index-of-a-valid-split/description/
 - https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/
+- https://leetcode.com/problems/merge-nodes-in-between-zeros/?envType=daily-question&envId=2024-07-04
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
@@ -91,3 +92,4 @@
 - https://leetcode.com/problems/ipo/
 - https://leetcode.com/problems/tallest-billboard/
 - https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+- https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
