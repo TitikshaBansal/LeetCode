@@ -39,6 +39,9 @@
 - https://leetcode.com/problems/intersection-of-multiple-arrays/description/
 - https://leetcode.com/problems/smallest-even-multiple/description/
 - https://leetcode.com/problems/subtree-of-another-tree/description/
+- https://leetcode.com/problems/pass-the-pillow/?envType=daily-question&envId=2024-07-06
+- https://leetcode.com/problems/valid-phone-numbers/
+- https://leetcode.com/problems/tenth-line/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -84,6 +87,8 @@
 - https://leetcode.com/problems/minimum-index-of-a-valid-split/description/
 - https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/
 - https://leetcode.com/problems/merge-nodes-in-between-zeros/?envType=daily-question&envId=2024-07-04
+- https://leetcode.com/problems/word-frequency/description/
+- https://leetcode.com/problems/transpose-file/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
