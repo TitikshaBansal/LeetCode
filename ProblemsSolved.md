@@ -42,6 +42,7 @@
 - https://leetcode.com/problems/pass-the-pillow/?envType=daily-question&envId=2024-07-06
 - https://leetcode.com/problems/valid-phone-numbers/
 - https://leetcode.com/problems/tenth-line/
+- https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2024-07-07
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
