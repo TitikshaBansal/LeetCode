@@ -90,6 +90,7 @@
 - https://leetcode.com/problems/merge-nodes-in-between-zeros/?envType=daily-question&envId=2024-07-04
 - https://leetcode.com/problems/word-frequency/description/
 - https://leetcode.com/problems/transpose-file/description/
+- https://leetcode.com/problems/find-the-winner-of-the-circular-game/?envType=daily-question&envId=2024-07-08
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
