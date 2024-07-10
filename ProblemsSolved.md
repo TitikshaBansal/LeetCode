@@ -43,6 +43,7 @@
 - https://leetcode.com/problems/valid-phone-numbers/
 - https://leetcode.com/problems/tenth-line/
 - https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2024-07-07
+- https://leetcode.com/problems/crawler-log-folder/?envType=daily-question&envId=2024-07-10
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
