@@ -95,6 +95,7 @@
 - https://leetcode.com/problems/average-waiting-time/description/?envType=daily-question&envId=2024-07-09
 - https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/?envType=daily-question&envId=2024-07-11
 - https://leetcode.com/problems/maximum-score-from-removing-substrings/?envType=daily-question&envId=2024-07-12
+- https://leetcode.com/problems/create-binary-tree-from-descriptions/?envType=daily-question&envId=2024-07-15
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
