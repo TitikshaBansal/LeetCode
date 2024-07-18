@@ -100,6 +100,7 @@
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - https://leetcode.com/problems/delete-nodes-and-return-forest/?envType=daily-question&envId=2024-07-17
+- https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/?envType=daily-question&envId=2024-07-18
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
