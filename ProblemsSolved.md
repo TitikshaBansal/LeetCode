@@ -44,6 +44,7 @@
 - https://leetcode.com/problems/tenth-line/
 - https://leetcode.com/problems/water-bottles/?envType=daily-question&envId=2024-07-07
 - https://leetcode.com/problems/crawler-log-folder/?envType=daily-question&envId=2024-07-10
+- https://leetcode.com/problems/lucky-numbers-in-a-matrix/?envType=daily-question&envId=2024-07-19
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
