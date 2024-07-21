@@ -115,3 +115,4 @@
 - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/
 - https://leetcode.com/problems/robot-collisions/?envType=daily-question&envId=2024-07-13
 - https://leetcode.com/problems/number-of-atoms/description/?envType=daily-question&envId=2024-07-14
+- https://leetcode.com/problems/build-a-matrix-with-conditions/?envType=daily-question&envId=2024-07-21
