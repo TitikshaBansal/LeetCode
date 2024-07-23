@@ -46,6 +46,7 @@
 - https://leetcode.com/problems/crawler-log-folder/?envType=daily-question&envId=2024-07-10
 - https://leetcode.com/problems/lucky-numbers-in-a-matrix/?envType=daily-question&envId=2024-07-19
 - https://leetcode.com/problems/sort-the-people/?envType=daily-question&envId=2024-07-22
+- https://leetcode.com/problems/sort-array-by-increasing-frequency/?envType=daily-question&envId=2024-07-23
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
