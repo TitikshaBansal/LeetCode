@@ -49,6 +49,7 @@
 - https://leetcode.com/problems/sort-array-by-increasing-frequency/?envType=daily-question&envId=2024-07-23
 - https://leetcode.com/problems/merge-two-sorted-lists/
 - https://leetcode.com/problems/plus-one/
+- https://leetcode.com/problems/longest-common-prefix/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
