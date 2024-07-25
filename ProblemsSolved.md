@@ -108,6 +108,7 @@
 - https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/?envType=daily-question&envId=2024-07-18
 - https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/?envType=daily-question&envId=2024-07-20
 - https://leetcode.com/problems/sort-the-jumbled-numbers/?envType=daily-question&envId=2024-07-24
+- https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
