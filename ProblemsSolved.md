@@ -110,6 +110,8 @@
 - https://leetcode.com/problems/find-valid-matrix-given-row-and-column-sums/?envType=daily-question&envId=2024-07-20
 - https://leetcode.com/problems/sort-the-jumbled-numbers/?envType=daily-question&envId=2024-07-24
 - https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25
+- https://leetcode.com/problems/game-of-life/
+- https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/?envType=daily-question&envId=2024-07-26
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
