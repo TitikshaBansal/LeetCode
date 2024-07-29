@@ -115,6 +115,7 @@
 - https://leetcode.com/problems/minimum-cost-to-convert-string-i/?envType=daily-question&envId=2024-07-27
 - https://leetcode.com/problems/xor-queries-of-a-subarray/
 - https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29
+- https://leetcode.com/problems/get-equal-substrings-within-budget/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
