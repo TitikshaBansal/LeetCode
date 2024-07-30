@@ -50,6 +50,7 @@
 - https://leetcode.com/problems/merge-two-sorted-lists/
 - https://leetcode.com/problems/plus-one/
 - https://leetcode.com/problems/longest-common-prefix/
+- https://leetcode.com/problems/length-of-last-word/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -116,6 +117,7 @@
 - https://leetcode.com/problems/xor-queries-of-a-subarray/
 - https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29
 - https://leetcode.com/problems/get-equal-substrings-within-budget/description/
+- https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
