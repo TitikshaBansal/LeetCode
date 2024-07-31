@@ -118,6 +118,8 @@
 - https://leetcode.com/problems/count-number-of-teams/description/?envType=daily-question&envId=2024-07-29
 - https://leetcode.com/problems/get-equal-substrings-within-budget/description/
 - https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30
+- https://leetcode.com/problems/filling-bookcase-shelves/?envType=daily-question&envId=2024-07-31
+- https://leetcode.com/problems/permutations/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
