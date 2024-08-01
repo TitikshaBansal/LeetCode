@@ -121,6 +121,7 @@
 - https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30
 - https://leetcode.com/problems/filling-bookcase-shelves/?envType=daily-question&envId=2024-07-31
 - https://leetcode.com/problems/permutations/
+- https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
