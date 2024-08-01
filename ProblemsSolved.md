@@ -90,7 +90,7 @@
 - https://leetcode.com/problems/set-matrix-zeroes/
 - https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
 - https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/
-- leetcode.com/problems/delete-node-in-a-linked-list/
+- https://leetcode.com/problems/delete-node-in-a-linked-list/
 - https://leetcode.com/problems/validate-binary-search-tree/
 - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - https://leetcode.com/problems/remove-nodes-from-linked-list/description/
