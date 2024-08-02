@@ -122,6 +122,7 @@
 - https://leetcode.com/problems/filling-bookcase-shelves/?envType=daily-question&envId=2024-07-31
 - https://leetcode.com/problems/permutations/
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/?envType=daily-question&envId=2024-08-02
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
