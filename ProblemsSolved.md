@@ -52,6 +52,7 @@
 - https://leetcode.com/problems/longest-common-prefix/
 - https://leetcode.com/problems/length-of-last-word/
 - https://leetcode.com/problems/number-of-senior-citizens/?envType=daily-question&envId=2024-08-01
+- https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/?envType=daily-question&envId=2024-08-03
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
