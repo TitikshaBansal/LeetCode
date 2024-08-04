@@ -124,6 +124,7 @@
 - https://leetcode.com/problems/permutations/
 - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/?envType=daily-question&envId=2024-08-02
+- https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/?envType=daily-question&envId=2024-08-04
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
