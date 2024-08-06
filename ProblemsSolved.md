@@ -127,6 +127,7 @@
 - https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/?envType=daily-question&envId=2024-08-02
 - https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/?envType=daily-question&envId=2024-08-04
 - https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
+- https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2024-08-06
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
