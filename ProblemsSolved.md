@@ -55,6 +55,7 @@
 - https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/?envType=daily-question&envId=2024-08-03
 - https://leetcode.com/problems/kth-distinct-string-in-an-array/?envType=daily-question&envId=2024-08-05
 - https://leetcode.com/problems/roman-to-integer/
+- https://leetcode.com/problems/majority-element/description/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
