@@ -57,6 +57,7 @@
 - https://leetcode.com/problems/roman-to-integer/
 - https://leetcode.com/problems/majority-element/description/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/is-subsequence/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
