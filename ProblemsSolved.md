@@ -131,6 +131,7 @@
 - https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/
 - https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/?envType=daily-question&envId=2024-08-06
 - https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
+- https://leetcode.com/problems/spiral-matrix-iii/?envType=daily-question&envId=2024-08-08
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
