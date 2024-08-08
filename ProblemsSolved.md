@@ -56,6 +56,7 @@
 - https://leetcode.com/problems/kth-distinct-string-in-an-array/?envType=daily-question&envId=2024-08-05
 - https://leetcode.com/problems/roman-to-integer/
 - https://leetcode.com/problems/majority-element/description/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
