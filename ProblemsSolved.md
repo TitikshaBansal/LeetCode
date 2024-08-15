@@ -60,6 +60,7 @@
 - https://leetcode.com/problems/is-subsequence/
 - https://leetcode.com/problems/kth-largest-element-in-a-stream/?envType=daily-question&envId=2024-08-12
 - https://leetcode.com/problems/valid-anagram/description/
+- https://leetcode.com/problems/lemonade-change/?envType=daily-question&envId=2024-08-15
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
