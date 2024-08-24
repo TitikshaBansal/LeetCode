@@ -159,3 +159,4 @@
 - https://leetcode.com/problems/integer-to-english-words/description/?envType=daily-question&envId=2024-08-07
 - https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/?envType=daily-question&envId=2024-08-11
 - https://leetcode.com/problems/find-k-th-smallest-pair-distance/?envType=daily-question&envId=2024-08-14
+- https://leetcode.com/problems/find-the-closest-palindrome/?envType=daily-question&envId=2024-08-24
