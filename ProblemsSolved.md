@@ -141,6 +141,7 @@
 - https://leetcode.com/problems/magic-squares-in-grid/
 - https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10
 - https://leetcode.com/problems/combination-sum-ii/description/?envType=daily-question&envId=2024-08-13
+- https://leetcode.com/problems/stone-game-ii/?envType=daily-question&envId=2024-08-20
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
@@ -160,3 +161,4 @@
 - https://leetcode.com/problems/minimum-number-of-days-to-disconnect-island/?envType=daily-question&envId=2024-08-11
 - https://leetcode.com/problems/find-k-th-smallest-pair-distance/?envType=daily-question&envId=2024-08-14
 - https://leetcode.com/problems/find-the-closest-palindrome/?envType=daily-question&envId=2024-08-24
+- https://leetcode.com/problems/strange-printer/description/?envType=daily-question&envId=2024-08-21
