@@ -142,6 +142,7 @@
 - https://leetcode.com/problems/regions-cut-by-slashes/description/?envType=daily-question&envId=2024-08-10
 - https://leetcode.com/problems/combination-sum-ii/description/?envType=daily-question&envId=2024-08-13
 - https://leetcode.com/problems/stone-game-ii/?envType=daily-question&envId=2024-08-20
+- https://leetcode.com/problems/2-keys-keyboard/?envType=daily-question&envId=2024-08-19
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
