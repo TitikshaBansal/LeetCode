@@ -62,6 +62,7 @@
 - https://leetcode.com/problems/valid-anagram/description/
 - https://leetcode.com/problems/lemonade-change/?envType=daily-question&envId=2024-08-15
 - https://leetcode.com/problems/number-complement/submissions/1364940898/?envType=daily-question&envId=2024-08-22
+- https://leetcode.com/problems/n-ary-tree-postorder-traversal/?envType=daily-question&envId=2024-08-26
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
