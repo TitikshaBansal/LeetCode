@@ -144,6 +144,7 @@
 - https://leetcode.com/problems/combination-sum-ii/description/?envType=daily-question&envId=2024-08-13
 - https://leetcode.com/problems/stone-game-ii/?envType=daily-question&envId=2024-08-20
 - https://leetcode.com/problems/2-keys-keyboard/?envType=daily-question&envId=2024-08-19
+- https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
