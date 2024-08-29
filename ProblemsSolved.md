@@ -145,6 +145,7 @@
 - https://leetcode.com/problems/stone-game-ii/?envType=daily-question&envId=2024-08-20
 - https://leetcode.com/problems/2-keys-keyboard/?envType=daily-question&envId=2024-08-19
 - https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18
+- https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/submissions/1371959740/?envType=daily-question&envId=2024-08-29
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
