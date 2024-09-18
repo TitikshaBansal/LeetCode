@@ -63,6 +63,7 @@
 - https://leetcode.com/problems/lemonade-change/?envType=daily-question&envId=2024-08-15
 - https://leetcode.com/problems/number-complement/submissions/1364940898/?envType=daily-question&envId=2024-08-22
 - https://leetcode.com/problems/n-ary-tree-postorder-traversal/?envType=daily-question&envId=2024-08-26
+- https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -146,6 +147,7 @@
 - https://leetcode.com/problems/2-keys-keyboard/?envType=daily-question&envId=2024-08-19
 - https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18
 - https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/submissions/1371959740/?envType=daily-question&envId=2024-08-29
+- https://leetcode.com/problems/largest-number/?envType=daily-question&envId=2024-09-18
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
