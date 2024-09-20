@@ -148,6 +148,7 @@
 - https://leetcode.com/problems/ugly-number-ii/description/?envType=daily-question&envId=2024-08-18
 - https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/submissions/1371959740/?envType=daily-question&envId=2024-08-29
 - https://leetcode.com/problems/largest-number/?envType=daily-question&envId=2024-09-18
+- https://leetcode.com/problems/different-ways-to-add-parentheses/?envType=daily-question&envId=2024-09-19
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
@@ -168,3 +169,4 @@
 - https://leetcode.com/problems/find-k-th-smallest-pair-distance/?envType=daily-question&envId=2024-08-14
 - https://leetcode.com/problems/find-the-closest-palindrome/?envType=daily-question&envId=2024-08-24
 - https://leetcode.com/problems/strange-printer/description/?envType=daily-question&envId=2024-08-21
+- https://leetcode.com/problems/shortest-palindrome/?envType=daily-question&envId=2024-09-20
