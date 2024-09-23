@@ -66,6 +66,7 @@
 - https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150
 - https://leetcode.com/problems/pascals-triangle/
 - https://leetcode.com/problems/fibonacci-number/
+- https://leetcode.com/problems/generate-fibonacci-sequence/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
