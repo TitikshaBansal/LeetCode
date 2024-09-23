@@ -65,6 +65,7 @@
 - https://leetcode.com/problems/n-ary-tree-postorder-traversal/?envType=daily-question&envId=2024-08-26
 - https://leetcode.com/problems/ransom-note/?envType=study-plan-v2&envId=top-interview-150
 - https://leetcode.com/problems/pascals-triangle/
+- https://leetcode.com/problems/fibonacci-number/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
