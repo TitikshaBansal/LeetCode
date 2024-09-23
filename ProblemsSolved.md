@@ -151,6 +151,7 @@
 - https://leetcode.com/problems/different-ways-to-add-parentheses/?envType=daily-question&envId=2024-09-19
 - https://leetcode.com/problems/extra-characters-in-a-string/description/?envType=daily-question&envId=2024-09-23
 - https://leetcode.com/problems/maximum-subarray/
+- https://leetcode.com/problems/next-permutation/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
