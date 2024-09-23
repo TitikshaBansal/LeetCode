@@ -149,6 +149,8 @@
 - https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/submissions/1371959740/?envType=daily-question&envId=2024-08-29
 - https://leetcode.com/problems/largest-number/?envType=daily-question&envId=2024-09-18
 - https://leetcode.com/problems/different-ways-to-add-parentheses/?envType=daily-question&envId=2024-09-19
+- https://leetcode.com/problems/extra-characters-in-a-string/description/?envType=daily-question&envId=2024-09-23
+- https://leetcode.com/problems/maximum-subarray/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
