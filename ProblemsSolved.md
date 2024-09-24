@@ -156,6 +156,7 @@
 - https://leetcode.com/problems/maximum-subarray/
 - https://leetcode.com/problems/next-permutation/
 - https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/?envType=daily-question&envId=2024-09-24
+- https://leetcode.com/problems/rotate-image/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
