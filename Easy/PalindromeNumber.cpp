@@ -6,8 +6,6 @@ private:
             x= x/10;
         }
         return y;
-       
-
     }
 public:
     bool isPalindrome(int x) {
@@ -19,5 +17,19 @@ public:
             return true;
         }
         return false;
-        
     }
+
+// one more approach
+class Solution {
+public:
+    bool isPalindrome(int x) {
+        string num = to_string(x);
+        int i =0, e= num.length()-1 ;
+        while(i<e){
+            if(num[i++] != num[e--]) return false;
+        }
+        return true;
+    }
+};
+
+// https://leetcode.com/problems/palindrome-number/
