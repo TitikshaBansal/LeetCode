@@ -18,9 +18,30 @@ int reverse(int x) {
         if (x<0){
             ans= 0-ans;
         }
-        
-        return ans;
-        
-        
-        
+        return ans; 
     }
+
+// better solution
+#include<vector>
+class Solution {
+public:
+    int reverse(int x) {
+        int num= abs(x);
+        int temp;
+        int ans= 0;
+        while(num!=0){
+            temp=num%10;
+            if( ans>INT_MAX/10 || ans< INT_MIN/10){
+                return 0;
+            }
+            ans= ans*10 + temp;
+            num= num/10;
+        }
+        if (x<0){
+            ans= 0-ans;
+        }
+        return ans;  
+    }
+};
+
+// https://leetcode.com/problems/reverse-integer/description/
