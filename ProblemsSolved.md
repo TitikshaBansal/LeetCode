@@ -159,6 +159,7 @@
 - https://leetcode.com/problems/rotate-image/
 - https://leetcode.com/problems/merge-intervals/
 - https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+- https://leetcode.com/problems/unique-paths/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
