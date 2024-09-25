@@ -161,6 +161,7 @@
 - https://leetcode.com/problems/frequency-of-the-most-frequent-element/
 - https://leetcode.com/problems/unique-paths/
 - https://leetcode.com/problems/search-a-2d-matrix/
+- https://leetcode.com/problems/majority-element-ii/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
