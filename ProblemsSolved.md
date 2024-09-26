@@ -164,6 +164,7 @@
 - https://leetcode.com/problems/majority-element-ii/
 - https://leetcode.com/problems/my-calendar-i/?envType=daily-question&envId=2024-09-26
 - https://leetcode.com/problems/3sum/
+- https://leetcode.com/problems/3sum-closest/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
