@@ -67,6 +67,7 @@
 - https://leetcode.com/problems/pascals-triangle/
 - https://leetcode.com/problems/fibonacci-number/
 - https://leetcode.com/problems/generate-fibonacci-sequence/
+- https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
