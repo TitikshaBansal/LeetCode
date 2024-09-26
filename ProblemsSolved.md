@@ -166,6 +166,7 @@
 - https://leetcode.com/problems/my-calendar-i/?envType=daily-question&envId=2024-09-26
 - https://leetcode.com/problems/3sum/
 - https://leetcode.com/problems/3sum-closest/
+- https://leetcode.com/problems/rotate-array/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
