@@ -162,6 +162,7 @@
 - https://leetcode.com/problems/unique-paths/
 - https://leetcode.com/problems/search-a-2d-matrix/
 - https://leetcode.com/problems/majority-element-ii/
+- https://leetcode.com/problems/my-calendar-i/?envType=daily-question&envId=2024-09-26
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
