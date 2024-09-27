@@ -71,6 +71,7 @@
 - https://leetcode.com/problems/move-zeroes/
 - https://leetcode.com/problems/missing-number/
 - https://leetcode.com/problems/max-consecutive-ones/
+- https://leetcode.com/problems/single-number/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
