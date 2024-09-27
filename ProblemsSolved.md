@@ -69,6 +69,7 @@
 - https://leetcode.com/problems/generate-fibonacci-sequence/
 - https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
 - https://leetcode.com/problems/move-zeroes/
+- https://leetcode.com/problems/missing-number/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
