@@ -72,6 +72,7 @@
 - https://leetcode.com/problems/missing-number/
 - https://leetcode.com/problems/max-consecutive-ones/
 - https://leetcode.com/problems/single-number/
+- https://leetcode.com/problems/maximum-score-after-splitting-a-string/?envType=daily-question&envId=2025-01-01
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
