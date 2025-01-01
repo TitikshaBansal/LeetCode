@@ -74,6 +74,7 @@
 - https://leetcode.com/problems/single-number/
 - https://leetcode.com/problems/maximum-score-after-splitting-a-string/?envType=daily-question&envId=2025-01-01
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+- https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
