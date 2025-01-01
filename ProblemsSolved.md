@@ -75,6 +75,7 @@
 - https://leetcode.com/problems/maximum-score-after-splitting-a-string/?envType=daily-question&envId=2025-01-01
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 - https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/
+- https://leetcode.com/problems/image-smoother/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
