@@ -176,6 +176,7 @@
 - https://leetcode.com/problems/3sum-closest/
 - https://leetcode.com/problems/rotate-array/
 - https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/?envType=daily-question&envId=2024-10-01
+- https://leetcode.com/problems/count-vowel-strings-in-ranges/?envType=daily-question&envId=2025-01-02
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
