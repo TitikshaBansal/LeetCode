@@ -76,6 +76,7 @@
 - https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 - https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/
 - https://leetcode.com/problems/image-smoother/
+- https://leetcode.com/problems/add-binary/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
