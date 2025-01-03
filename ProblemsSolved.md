@@ -179,6 +179,7 @@
 - https://leetcode.com/problems/count-vowel-strings-in-ranges/?envType=daily-question&envId=2025-01-02
 - https://leetcode.com/problems/number-of-ways-to-split-array/?envType=daily-question&envId=2025-01-03
 - https://leetcode.com/problems/circle-and-rectangle-overlapping/
+- https://leetcode.com/problems/repeated-dna-sequences/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
