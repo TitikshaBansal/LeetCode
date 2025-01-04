@@ -186,6 +186,7 @@
 - https://leetcode.com/problems/wiggle-sort-ii/
 - https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
+- https://leetcode.com/problems/bulls-and-cows/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
