@@ -187,6 +187,7 @@
 - https://leetcode.com/problems/maximum-product-of-the-length-of-two-palindromic-subsequences/
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 - https://leetcode.com/problems/bulls-and-cows/
+- https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
