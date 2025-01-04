@@ -181,6 +181,7 @@
 - https://leetcode.com/problems/number-of-ways-to-split-array/?envType=daily-question&envId=2025-01-03
 - https://leetcode.com/problems/circle-and-rectangle-overlapping/
 - https://leetcode.com/problems/repeated-dna-sequences/
+- https://leetcode.com/problems/unique-length-3-palindromic-subsequences/?envType=daily-question&envId=2025-01-04
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
