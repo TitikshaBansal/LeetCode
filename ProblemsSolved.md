@@ -188,6 +188,7 @@
 - https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/
 - https://leetcode.com/problems/bulls-and-cows/
 - https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
+- https://leetcode.com/problems/shifting-letters-ii/?envType=daily-question&envId=2025-01-05
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
