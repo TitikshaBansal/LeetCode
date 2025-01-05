@@ -77,6 +77,7 @@
 - https://leetcode.com/problems/count-the-number-of-incremovable-subarrays-i/
 - https://leetcode.com/problems/image-smoother/
 - https://leetcode.com/problems/add-binary/
+- https://leetcode.com/problems/first-unique-character-in-a-string/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
