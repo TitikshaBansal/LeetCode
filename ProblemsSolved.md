@@ -78,6 +78,7 @@
 - https://leetcode.com/problems/image-smoother/
 - https://leetcode.com/problems/add-binary/
 - https://leetcode.com/problems/first-unique-character-in-a-string/
+- https://leetcode.com/problems/excel-sheet-column-title/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
