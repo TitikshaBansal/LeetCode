@@ -192,6 +192,7 @@
 - https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 - https://leetcode.com/problems/shifting-letters-ii/?envType=daily-question&envId=2025-01-05
 - https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/?envType=daily-question&envId=2025-01-06
+- https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
