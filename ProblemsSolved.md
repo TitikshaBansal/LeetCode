@@ -190,6 +190,7 @@
 - https://leetcode.com/problems/bulls-and-cows/
 - https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/
 - https://leetcode.com/problems/shifting-letters-ii/?envType=daily-question&envId=2025-01-05
+- https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/?envType=daily-question&envId=2025-01-06
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
