@@ -80,6 +80,7 @@
 - https://leetcode.com/problems/first-unique-character-in-a-string/
 - https://leetcode.com/problems/excel-sheet-column-title/
 - https://leetcode.com/problems/string-matching-in-an-array/?envType=daily-question&envId=2025-01-07
+- https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/?envType=daily-question&envId=2025-01-08
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
