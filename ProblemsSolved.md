@@ -197,6 +197,8 @@
 - https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/description/
 - https://leetcode.com/problems/longest-mountain-in-array/
 - https://leetcode.com/problems/rotting-oranges/
+- https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+- https://leetcode.com/problems/permutation-in-string/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
