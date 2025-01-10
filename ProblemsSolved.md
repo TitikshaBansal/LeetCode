@@ -82,6 +82,7 @@
 - https://leetcode.com/problems/string-matching-in-an-array/?envType=daily-question&envId=2025-01-07
 - https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/?envType=daily-question&envId=2025-01-08
 - https://leetcode.com/problems/counting-words-with-a-given-prefix/?envType=daily-question&envId=2025-01-09
+- https://leetcode.com/problems/substring-matching-pattern/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
