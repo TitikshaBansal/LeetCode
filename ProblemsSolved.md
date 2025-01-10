@@ -205,6 +205,7 @@
 - https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
 - https://leetcode.com/problems/word-subsets/?envType=daily-question&envId=2025-01-10
 - https://leetcode.com/problems/valid-sudoku/
+- https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
