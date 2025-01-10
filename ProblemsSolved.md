@@ -230,3 +230,4 @@
 - https://leetcode.com/problems/russian-doll-envelopes/
 - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
+- https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/
