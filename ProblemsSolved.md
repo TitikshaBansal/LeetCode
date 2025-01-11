@@ -206,6 +206,7 @@
 - https://leetcode.com/problems/word-subsets/?envType=daily-question&envId=2025-01-10
 - https://leetcode.com/problems/valid-sudoku/
 - https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/
+- https://leetcode.com/problems/construct-k-palindrome-strings/?envType=daily-question&envId=2025-01-11
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
