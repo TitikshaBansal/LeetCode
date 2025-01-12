@@ -208,6 +208,7 @@
 - https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/
 - https://leetcode.com/problems/construct-k-palindrome-strings/?envType=daily-question&envId=2025-01-11
 - https://leetcode.com/problems/design-task-manager/
+- https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/?envType=daily-question&envId=2025-01-12
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
