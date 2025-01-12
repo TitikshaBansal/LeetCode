@@ -83,6 +83,7 @@
 - https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/?envType=daily-question&envId=2025-01-08
 - https://leetcode.com/problems/counting-words-with-a-given-prefix/?envType=daily-question&envId=2025-01-09
 - https://leetcode.com/problems/substring-matching-pattern/
+- https://leetcode.com/problems/climbing-stairs/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
