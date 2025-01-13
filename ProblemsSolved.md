@@ -211,6 +211,7 @@
 - https://leetcode.com/problems/design-task-manager/
 - https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/?envType=daily-question&envId=2025-01-12
 - https://leetcode.com/problems/trapping-rain-water/
+- https://leetcode.com/problems/minimum-length-of-string-after-operations/?envType=daily-question&envId=2025-01-13
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
