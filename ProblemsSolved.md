@@ -214,6 +214,7 @@
 - https://leetcode.com/problems/minimum-length-of-string-after-operations/?envType=daily-question&envId=2025-01-13
 - https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/?envType=daily-question&envId=2025-01-14
 - https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
+- https://leetcode.com/problems/minimize-xor/?envType=daily-question&envId=2025-01-15
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
