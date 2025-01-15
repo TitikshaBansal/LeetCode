@@ -85,6 +85,7 @@
 - https://leetcode.com/problems/substring-matching-pattern/
 - https://leetcode.com/problems/climbing-stairs/
 - https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
+- https://leetcode.com/problems/number-of-1-bits/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
