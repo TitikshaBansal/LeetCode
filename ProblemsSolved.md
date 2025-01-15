@@ -87,6 +87,7 @@
 - https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 - https://leetcode.com/problems/number-of-1-bits/
 - https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/
+- https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
