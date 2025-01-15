@@ -84,6 +84,7 @@
 - https://leetcode.com/problems/counting-words-with-a-given-prefix/?envType=daily-question&envId=2025-01-09
 - https://leetcode.com/problems/substring-matching-pattern/
 - https://leetcode.com/problems/climbing-stairs/
+- https://leetcode.com/problems/zigzag-grid-traversal-with-skip/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
