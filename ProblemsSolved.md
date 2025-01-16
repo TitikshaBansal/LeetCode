@@ -222,6 +222,7 @@
 - https://leetcode.com/problems/minimize-xor/?envType=daily-question&envId=2025-01-15
 - https://leetcode.com/problems/bitwise-xor-of-all-pairings/?envType=daily-question&envId=2025-01-16
 - https://leetcode.com/problems/sort-characters-by-frequency/
+- https://leetcode.com/problems/top-k-frequent-words/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
