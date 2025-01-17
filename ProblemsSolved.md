@@ -224,6 +224,7 @@
 - https://leetcode.com/problems/sort-characters-by-frequency/
 - https://leetcode.com/problems/top-k-frequent-words/
 - https://leetcode.com/problems/neighboring-bitwise-xor/?envType=daily-question&envId=2025-01-17
+- https://leetcode.com/problems/word-break/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
