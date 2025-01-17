@@ -227,6 +227,7 @@
 - https://leetcode.com/problems/word-break/
 - https://leetcode.com/problems/k-diff-pairs-in-an-array/
 - https://leetcode.com/problems/count-the-number-of-square-free-subsets/
+- https://leetcode.com/problems/rotate-function/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
