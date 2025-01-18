@@ -231,6 +231,7 @@
 - https://leetcode.com/problems/largest-divisible-subset/
 - https://leetcode.com/problems/friends-of-appropriate-ages/
 - https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+- https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
