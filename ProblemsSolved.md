@@ -229,6 +229,7 @@
 - https://leetcode.com/problems/count-the-number-of-square-free-subsets/
 - https://leetcode.com/problems/rotate-function/
 - https://leetcode.com/problems/largest-divisible-subset/
+- https://leetcode.com/problems/friends-of-appropriate-ages/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
