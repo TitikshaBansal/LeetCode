@@ -261,3 +261,4 @@
 - https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/
 - https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/
 - https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/?envType=daily-question&envId=2025-01-18
+- https://leetcode.com/problems/trapping-rain-water-ii/
