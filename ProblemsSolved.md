@@ -235,6 +235,7 @@
 - https://leetcode.com/problems/battleships-in-a-board/
 - https://leetcode.com/problems/first-completely-painted-row-or-column/?envType=daily-question&envId=2025-01-20
 - https://leetcode.com/problems/destroying-asteroids/
+- https://leetcode.com/problems/stone-game-vi/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
