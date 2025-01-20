@@ -234,6 +234,7 @@
 - https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/
 - https://leetcode.com/problems/battleships-in-a-board/
 - https://leetcode.com/problems/first-completely-painted-row-or-column/?envType=daily-question&envId=2025-01-20
+- https://leetcode.com/problems/destroying-asteroids/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
