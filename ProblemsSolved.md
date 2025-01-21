@@ -269,3 +269,4 @@
 - https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/?envType=daily-question&envId=2025-01-18
 - https://leetcode.com/problems/trapping-rain-water-ii/
 - https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
+- https://leetcode.com/problems/sum-of-scores-of-built-strings/
