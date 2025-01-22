@@ -243,6 +243,7 @@
 - https://leetcode.com/problems/01-matrix/
 - https://leetcode.com/problems/count-collisions-on-a-road/
 - https://leetcode.com/problems/minimum-non-zero-product-of-the-array-elements/
+- https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
