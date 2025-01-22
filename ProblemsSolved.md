@@ -240,6 +240,7 @@
 - https://leetcode.com/problems/grid-game/?envType=daily-question&envId=2025-01-21
 - https://leetcode.com/problems/design-add-and-search-words-data-structure/
 - https://leetcode.com/problems/map-of-highest-peak/?envType=daily-question&envId=2025-01-22
+- https://leetcode.com/problems/01-matrix/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
