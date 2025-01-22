@@ -239,6 +239,7 @@
 - https://leetcode.com/problems/maximum-product-after-k-increments/
 - https://leetcode.com/problems/grid-game/?envType=daily-question&envId=2025-01-21
 - https://leetcode.com/problems/design-add-and-search-words-data-structure/
+- https://leetcode.com/problems/map-of-highest-peak/?envType=daily-question&envId=2025-01-22
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
