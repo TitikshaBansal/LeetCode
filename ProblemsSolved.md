@@ -280,3 +280,4 @@
 - https://leetcode.com/problems/count-subtrees-with-max-distance-between-cities/
 - https://leetcode.com/problems/sum-of-scores-of-built-strings/
 - https://leetcode.com/problems/find-in-mountain-array/
+- https://leetcode.com/problems/the-number-of-good-subsets/
