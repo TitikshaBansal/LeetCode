@@ -246,6 +246,7 @@
 - https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-i/
 - https://leetcode.com/problems/count-servers-that-communicate/?envType=daily-question&envId=2025-01-23
 - https://leetcode.com/problems/throne-inheritance/
+- https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
