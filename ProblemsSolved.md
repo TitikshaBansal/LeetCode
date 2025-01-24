@@ -248,6 +248,7 @@
 - https://leetcode.com/problems/throne-inheritance/
 - https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/
 - https://leetcode.com/problems/find-eventual-safe-states/?envType=daily-question&envId=2025-01-24
+- https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
