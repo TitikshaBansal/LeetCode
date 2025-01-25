@@ -249,6 +249,7 @@
 - https://leetcode.com/problems/count-words-obtained-after-adding-a-letter/
 - https://leetcode.com/problems/find-eventual-safe-states/?envType=daily-question&envId=2025-01-24
 - https://leetcode.com/problems/maximize-area-of-square-hole-in-grid/
+- https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/?envType=daily-question&envId=2025-01-25
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
