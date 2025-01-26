@@ -252,6 +252,7 @@
 - https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/?envType=daily-question&envId=2025-01-25
 - https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/
 - https://leetcode.com/problems/number-of-people-aware-of-a-secret/
+- https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
