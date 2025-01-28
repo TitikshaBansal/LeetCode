@@ -260,6 +260,7 @@
 - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 - https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/?envType=daily-question&envId=2025-01-28
 - https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
+- https://leetcode.com/problems/k-divisible-elements-subarrays/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
