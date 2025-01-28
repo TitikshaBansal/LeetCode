@@ -258,6 +258,7 @@
 - https://leetcode.com/problems/combination-sum-iii/
 - https://leetcode.com/problems/random-flip-matrix/
 - https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+- https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/?envType=daily-question&envId=2025-01-28
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
