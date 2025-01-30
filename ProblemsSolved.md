@@ -299,3 +299,4 @@
 - https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 - https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/?envType=daily-question&envId=2025-01-26
 - https://leetcode.com/problems/lfu-cache/
+- https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/?envType=daily-question&envId=2025-01-30
