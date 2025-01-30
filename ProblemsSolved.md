@@ -301,3 +301,4 @@
 - https://leetcode.com/problems/lfu-cache/
 - https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/?envType=daily-question&envId=2025-01-30
 - https://leetcode.com/problems/n-queens/
+- https://leetcode.com/problems/n-queens-ii/
