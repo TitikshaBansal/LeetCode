@@ -303,3 +303,4 @@
 - https://leetcode.com/problems/n-queens/
 - https://leetcode.com/problems/n-queens-ii/
 - https://leetcode.com/problems/making-a-large-island/?envType=daily-question&envId=2025-01-31
+- https://leetcode.com/problems/sudoku-solver/
