@@ -90,6 +90,7 @@
 - https://leetcode.com/problems/find-the-distance-value-between-two-arrays/
 - https://leetcode.com/problems/assign-cookies/
 - https://leetcode.com/problems/find-the-difference/
+- https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
