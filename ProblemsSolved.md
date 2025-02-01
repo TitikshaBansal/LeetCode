@@ -91,6 +91,7 @@
 - https://leetcode.com/problems/assign-cookies/
 - https://leetcode.com/problems/find-the-difference/
 - https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/
+- https://leetcode.com/problems/special-array-i/?envType=daily-question&envId=2025-02-01
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
