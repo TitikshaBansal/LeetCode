@@ -266,6 +266,7 @@
 - https://leetcode.com/problems/k-divisible-elements-subarrays/
 - https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29
 - https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/
+- https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
