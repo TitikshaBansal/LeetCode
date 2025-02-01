@@ -265,6 +265,7 @@
 - https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/
 - https://leetcode.com/problems/k-divisible-elements-subarrays/
 - https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29
+- https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
