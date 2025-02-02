@@ -268,6 +268,7 @@
 - https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29
 - https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/
 - https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/
+- https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
