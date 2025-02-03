@@ -93,6 +93,7 @@
 - https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/
 - https://leetcode.com/problems/special-array-i/?envType=daily-question&envId=2025-02-01
 - https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/
+- https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-03
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
