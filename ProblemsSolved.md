@@ -314,3 +314,4 @@
 - https://leetcode.com/problems/sudoku-solver/
 - https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/
 - https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/
+- https://leetcode.com/problems/consecutive-numbers-sum/
