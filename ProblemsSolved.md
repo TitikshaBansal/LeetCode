@@ -94,6 +94,7 @@
 - https://leetcode.com/problems/special-array-i/?envType=daily-question&envId=2025-02-01
 - https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/
 - https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-03
+- https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=daily-question&envId=2025-02-04
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
