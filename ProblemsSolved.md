@@ -98,6 +98,7 @@
 - https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/?envType=daily-question&envId=2025-02-05
 - https://leetcode.com/problems/maximum-number-of-balloons/
 - https://leetcode.com/problems/number-of-even-and-odd-bits/
+- https://leetcode.com/problems/find-the-distinct-difference-array/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
