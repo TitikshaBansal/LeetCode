@@ -322,3 +322,4 @@
 - https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/
 - https://leetcode.com/problems/consecutive-numbers-sum/
 - https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/
+- https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-ii/
