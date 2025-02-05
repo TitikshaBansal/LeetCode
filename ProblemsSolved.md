@@ -96,6 +96,7 @@
 - https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/?envType=daily-question&envId=2025-02-03
 - https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=daily-question&envId=2025-02-04
 - https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/?envType=daily-question&envId=2025-02-05
+- https://leetcode.com/problems/maximum-number-of-balloons/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
