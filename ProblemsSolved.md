@@ -97,6 +97,7 @@
 - https://leetcode.com/problems/maximum-ascending-subarray-sum/?envType=daily-question&envId=2025-02-04
 - https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/?envType=daily-question&envId=2025-02-05
 - https://leetcode.com/problems/maximum-number-of-balloons/
+- https://leetcode.com/problems/number-of-even-and-odd-bits/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
