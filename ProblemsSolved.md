@@ -277,6 +277,7 @@
 - https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/
 - https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 - https://leetcode.com/problems/largest-merge-of-two-strings/
+- https://leetcode.com/problems/tuple-with-same-product/?envType=daily-question&envId=2025-02-06
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
