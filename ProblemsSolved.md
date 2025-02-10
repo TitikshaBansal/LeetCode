@@ -99,6 +99,7 @@
 - https://leetcode.com/problems/maximum-number-of-balloons/
 - https://leetcode.com/problems/number-of-even-and-odd-bits/
 - https://leetcode.com/problems/find-the-distinct-difference-array/
+- https://leetcode.com/problems/clear-digits/?envType=daily-question&envId=2025-02-10
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
