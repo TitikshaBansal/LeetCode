@@ -282,6 +282,7 @@
 - https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/?envType=daily-question&envId=2025-02-07
 - https://leetcode.com/problems/design-a-number-container-system/?envType=daily-question&envId=2025-02-08
 - https://leetcode.com/problems/remove-all-occurrences-of-a-substring/?envType=daily-question&envId=2025-02-11
+- https://leetcode.com/problems/count-number-of-bad-pairs/?envType=daily-question&envId=2025-02-09
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
