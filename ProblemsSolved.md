@@ -284,6 +284,7 @@
 - https://leetcode.com/problems/remove-all-occurrences-of-a-substring/?envType=daily-question&envId=2025-02-11
 - https://leetcode.com/problems/count-number-of-bad-pairs/?envType=daily-question&envId=2025-02-09
 - https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/?envType=daily-question&envId=2025-02-13
+- https://leetcode.com/problems/product-of-the-last-k-numbers/?envType=daily-question&envId=2025-02-14
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
