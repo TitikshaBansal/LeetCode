@@ -1,32 +1,24 @@
 class Solution {
 public:
     int maxProfit(int k, vector<int>& prices) {
-        int n=prices.size();
-        vector<int> front(2*k+1,0),curr(2*k+1,0);
-        for(int j=0;j<2*k+1;j++){
-            front[j]=0;
-        }
-        for(int i=0;i<n+1;i++){
-            front[2*k]=0;
-        }
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<2*k;j++){
-                int profit=0;
-                if(j%2==0){
-                    int pick=-prices[i]+front[j+1];
-                    int notPick=0+front[j];
-                    profit=max(pick,notPick);
-                }
-                else{
-                    int pick=prices[i]+front[j+1];
-                    int notPick=0+front[j];
-                    profit=max(pick,notPick);
-                }
-                curr[j]=profit;
+        int n = prices.size();
+        if(n==0) return 0;
+        if(k>n/2){
+            int profit =0;
+            for(int i=1; i<n; i++){
+                if(prices[i]>prices[i-1]) profit += prices[i]-prices[i-1];
             }
-            front=curr;
+            return profit;
         }
-        return front[0];
+        vector<vector<int>> dp(k+1, vector<int>(n,0));
+        for(int i=1; i<=k; i++){
+            int maxDiff = -prices[0];
+            for(int j=1; j<n; j++){
+                dp[i][j] = max(dp[i][j-1], prices[j]+maxDiff);
+                maxDiff = max(maxDiff, dp[i-1][j] - prices[j]);
+            }
+        }
+        return dp[k][n-1];
     }
 };
 
