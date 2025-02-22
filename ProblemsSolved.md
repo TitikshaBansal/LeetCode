@@ -103,6 +103,7 @@
 - https://leetcode.com/problems/contains-duplicate/
 - https://leetcode.com/problems/counting-bits/
 - https://leetcode.com/problems/reverse-bits/
+- https://leetcode.com/problems/find-missing-and-repeated-values/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
