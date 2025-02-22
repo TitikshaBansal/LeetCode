@@ -294,6 +294,7 @@
 - https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/?envType=daily-question&envId=2025-02-22
 - https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/?envType=daily-question&envId=2025-02-21
 - https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
+- https://leetcode.com/problems/maximum-product-subarray/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
