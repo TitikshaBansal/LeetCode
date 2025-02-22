@@ -102,6 +102,7 @@
 - https://leetcode.com/problems/clear-digits/?envType=daily-question&envId=2025-02-10
 - https://leetcode.com/problems/contains-duplicate/
 - https://leetcode.com/problems/counting-bits/
+- https://leetcode.com/problems/reverse-bits/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
