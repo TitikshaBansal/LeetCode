@@ -314,6 +314,7 @@
 - https://leetcode.com/problems/non-overlapping-intervals/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+- https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
