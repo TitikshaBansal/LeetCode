@@ -310,6 +310,7 @@
 - https://leetcode.com/problems/course-schedule/
 - https://leetcode.com/problems/course-schedule-ii/
 - https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/?envType=daily-question&envId=2025-02-19
+- https://leetcode.com/problems/non-overlapping-intervals/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
