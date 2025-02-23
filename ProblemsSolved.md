@@ -315,6 +315,7 @@
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
