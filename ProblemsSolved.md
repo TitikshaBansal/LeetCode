@@ -313,6 +313,7 @@
 - https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/?envType=daily-question&envId=2025-02-19
 - https://leetcode.com/problems/non-overlapping-intervals/
 - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+- https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
