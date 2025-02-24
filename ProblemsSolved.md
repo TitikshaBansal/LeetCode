@@ -109,6 +109,7 @@
 - https://leetcode.com/problems/path-sum/
 - https://leetcode.com/problems/ugly-number/
 - https://leetcode.com/problems/excel-sheet-column-number/
+- https://leetcode.com/problems/pascals-triangle-ii/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
