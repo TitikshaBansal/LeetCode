@@ -107,6 +107,8 @@
 - https://leetcode.com/problems/invert-binary-tree/
 - https://leetcode.com/problems/minimum-depth-of-binary-tree/
 - https://leetcode.com/problems/path-sum/
+- https://leetcode.com/problems/ugly-number/
+- https://leetcode.com/problems/excel-sheet-column-number/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
