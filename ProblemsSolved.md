@@ -105,6 +105,7 @@
 - https://leetcode.com/problems/reverse-bits/
 - https://leetcode.com/problems/find-missing-and-repeated-values/
 - https://leetcode.com/problems/invert-binary-tree/
+- https://leetcode.com/problems/minimum-depth-of-binary-tree/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
