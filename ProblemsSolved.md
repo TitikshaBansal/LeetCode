@@ -316,6 +316,7 @@
 - https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
+- https://leetcode.com/problems/most-profitable-path-in-a-tree/?envType=daily-question&envId=2025-02-24
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
