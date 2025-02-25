@@ -326,6 +326,7 @@
 - https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2025-02-25
 - https://leetcode.com/problems/longest-palindromic-substring/
 - https://leetcode.com/problems/combination-sum/
+- https://leetcode.com/problems/palindromic-substrings/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
