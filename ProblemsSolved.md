@@ -323,6 +323,7 @@
 - https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 - https://leetcode.com/problems/most-profitable-path-in-a-tree/?envType=daily-question&envId=2025-02-24
 - https://leetcode.com/problems/kth-largest-element-in-an-array/
+- https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2025-02-25
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
