@@ -328,6 +328,7 @@
 - https://leetcode.com/problems/combination-sum/
 - https://leetcode.com/problems/palindromic-substrings/
 - https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/?envType=daily-question&envId=2025-02-26
+- https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/?envType=daily-question&envId=2025-02-27
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
