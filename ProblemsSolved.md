@@ -380,3 +380,4 @@
 - https://leetcode.com/problems/find-median-from-data-stream/
 - https://leetcode.com/problems/course-schedule-iii/
 - https://leetcode.com/problems/binary-tree-maximum-path-sum/
+- https://leetcode.com/problems/shortest-common-supersequence/?envType=daily-question&envId=2025-02-28
