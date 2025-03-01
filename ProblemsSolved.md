@@ -110,6 +110,7 @@
 - https://leetcode.com/problems/ugly-number/
 - https://leetcode.com/problems/excel-sheet-column-number/
 - https://leetcode.com/problems/pascals-triangle-ii/
+- https://leetcode.com/problems/apply-operations-to-an-array/?envType=daily-question&envId=2025-03-01
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
