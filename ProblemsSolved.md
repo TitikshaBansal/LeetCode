@@ -111,6 +111,7 @@
 - https://leetcode.com/problems/excel-sheet-column-number/
 - https://leetcode.com/problems/pascals-triangle-ii/
 - https://leetcode.com/problems/apply-operations-to-an-array/?envType=daily-question&envId=2025-03-01
+- https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/?envType=daily-question&envId=2025-03-02
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
