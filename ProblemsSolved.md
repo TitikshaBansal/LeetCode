@@ -335,6 +335,7 @@
 - https://leetcode.com/problems/partition-array-according-to-given-pivot/?envType=daily-question&envId=2025-03-03
 - https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three/?envType=daily-question&envId=2025-03-04
 - https://leetcode.com/problems/count-total-number-of-colored-cells/?envType=daily-question&envId=2025-03-05
+- https://leetcode.com/problems/alternating-groups-ii/?envType=daily-question&envId=2025-03-09
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
