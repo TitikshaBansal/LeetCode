@@ -114,6 +114,7 @@
 - https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/?envType=daily-question&envId=2025-03-02
 - https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/?envType=daily-question&envId=2025-03-08
 - https://leetcode.com/problems/fruits-into-baskets-ii/
+- https://leetcode.com/problems/happy-number/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
