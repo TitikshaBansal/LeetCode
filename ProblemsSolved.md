@@ -115,6 +115,7 @@
 - https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/?envType=daily-question&envId=2025-03-08
 - https://leetcode.com/problems/fruits-into-baskets-ii/
 - https://leetcode.com/problems/happy-number/
+- https://leetcode.com/problems/isomorphic-strings/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
