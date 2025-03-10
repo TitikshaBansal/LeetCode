@@ -338,6 +338,7 @@
 - https://leetcode.com/problems/count-total-number-of-colored-cells/?envType=daily-question&envId=2025-03-05
 - https://leetcode.com/problems/alternating-groups-ii/?envType=daily-question&envId=2025-03-09
 - https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/?envType=daily-question&envId=2025-03-10
+- https://leetcode.com/problems/choose-k-elements-with-maximum-sum/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
