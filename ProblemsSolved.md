@@ -344,6 +344,7 @@
 - https://leetcode.com/problems/choose-k-elements-with-maximum-sum/
 - https://leetcode.com/problems/fruits-into-baskets-iii/
 - https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/?envType=daily-question&envId=2025-03-11
+- https://leetcode.com/problems/count-and-say/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
