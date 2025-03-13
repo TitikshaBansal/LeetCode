@@ -347,6 +347,7 @@
 - https://leetcode.com/problems/count-and-say/
 - https://leetcode.com/problems/zero-array-transformation-ii/?envType=daily-question&envId=2025-03-13
 - https://leetcode.com/problems/rearrange-array-elements-by-sign/
+- https://leetcode.com/problems/longest-consecutive-sequence/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
