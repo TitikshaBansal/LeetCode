@@ -348,6 +348,7 @@
 - https://leetcode.com/problems/zero-array-transformation-ii/?envType=daily-question&envId=2025-03-13
 - https://leetcode.com/problems/rearrange-array-elements-by-sign/
 - https://leetcode.com/problems/longest-consecutive-sequence/
+- https://leetcode.com/problems/maximum-candies-allocated-to-k-children/?envType=daily-question&envId=2025-03-14
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
