@@ -351,6 +351,7 @@
 - https://leetcode.com/problems/maximum-candies-allocated-to-k-children/?envType=daily-question&envId=2025-03-14
 - https://leetcode.com/problems/house-robber-iv/?envType=daily-question&envId=2025-03-15
 - https://leetcode.com/problems/house-robber/
+- https://leetcode.com/problems/minimum-time-to-repair-cars/?envType=daily-question&envId=2025-03-16
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
