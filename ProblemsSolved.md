@@ -354,6 +354,7 @@
 - https://leetcode.com/problems/house-robber/
 - https://leetcode.com/problems/minimum-time-to-repair-cars/?envType=daily-question&envId=2025-03-16
 - https://leetcode.com/problems/longest-nice-subarray/?envType=daily-question&envId=2025-03-18
+- https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
