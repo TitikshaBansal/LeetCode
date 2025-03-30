@@ -357,6 +357,8 @@
 - https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19
 - https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 - https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+- https://leetcode.com/problems/count-the-number-of-complete-components/
+- https://leetcode.com/problems/count-days-without-meetings/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
