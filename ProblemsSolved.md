@@ -361,6 +361,7 @@
 - https://leetcode.com/problems/count-days-without-meetings/
 - https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/
 - https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
+- https://leetcode.com/problems/minimum-index-of-a-valid-split/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
@@ -415,3 +416,4 @@
 - https://leetcode.com/problems/shortest-common-supersequence/?envType=daily-question&envId=2025-02-28
 - https://leetcode.com/problems/first-missing-positive/
 - https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/?envType=daily-question&envId=2025-03-20
+- https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
