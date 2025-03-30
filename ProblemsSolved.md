@@ -355,6 +355,8 @@
 - https://leetcode.com/problems/minimum-time-to-repair-cars/?envType=daily-question&envId=2025-03-16
 - https://leetcode.com/problems/longest-nice-subarray/?envType=daily-question&envId=2025-03-18
 - https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19
+- https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+- https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
