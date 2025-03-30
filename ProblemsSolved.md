@@ -118,6 +118,7 @@
 - https://leetcode.com/problems/isomorphic-strings/
 - https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/?envType=daily-question&envId=2025-03-12
 - https://leetcode.com/problems/divide-array-into-equal-pairs/?envType=daily-question&envId=2025-03-17
+- https://leetcode.com/contest/biweekly-contest-153/problems/reverse-degree-of-a-string/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -417,3 +418,4 @@
 - https://leetcode.com/problems/first-missing-positive/
 - https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/?envType=daily-question&envId=2025-03-20
 - https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
+- https://leetcode.com/problems/apply-operations-to-maximize-score/
