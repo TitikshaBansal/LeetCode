@@ -359,6 +359,8 @@
 - https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
 - https://leetcode.com/problems/count-the-number-of-complete-components/
 - https://leetcode.com/problems/count-days-without-meetings/
+- https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/
+- https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
