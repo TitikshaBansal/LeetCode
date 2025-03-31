@@ -422,3 +422,4 @@
 - https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/
 - https://leetcode.com/problems/apply-operations-to-maximize-score/
 - https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/
+- https://leetcode.com/problems/put-marbles-in-bags/?envType=daily-question&envId=2025-03-31
