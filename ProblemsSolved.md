@@ -122,6 +122,7 @@
 - https://leetcode.com/problems/minimum-cost-to-reach-every-position/
 - https://leetcode.com/problems/maximum-containers-on-a-ship/
 - https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
+- https://leetcode.com/problems/unique-3-digit-even-numbers/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
