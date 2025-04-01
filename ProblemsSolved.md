@@ -120,6 +120,7 @@
 - https://leetcode.com/problems/divide-array-into-equal-pairs/?envType=daily-question&envId=2025-03-17
 - https://leetcode.com/contest/biweekly-contest-153/problems/reverse-degree-of-a-string/
 - https://leetcode.com/problems/minimum-cost-to-reach-every-position/
+- https://leetcode.com/problems/maximum-containers-on-a-ship/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
