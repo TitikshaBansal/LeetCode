@@ -365,6 +365,7 @@
 - https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid/
 - https://leetcode.com/problems/minimum-index-of-a-valid-split/
 - https://leetcode.com/problems/partition-labels/?envType=daily-question&envId=2025-03-30
+- https://leetcode.com/problems/solving-questions-with-brainpower/?envType=daily-question&envId=2025-04-01
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
