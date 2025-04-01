@@ -121,6 +121,7 @@
 - https://leetcode.com/contest/biweekly-contest-153/problems/reverse-degree-of-a-string/
 - https://leetcode.com/problems/minimum-cost-to-reach-every-position/
 - https://leetcode.com/problems/maximum-containers-on-a-ship/
+- https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
