@@ -371,6 +371,7 @@
 - https://leetcode.com/problems/partition-labels/?envType=daily-question&envId=2025-03-30
 - https://leetcode.com/problems/solving-questions-with-brainpower/?envType=daily-question&envId=2025-04-01
 - https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/?envType=daily-question&envId=2025-04-03
+- https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/?envType=daily-question&envId=2025-04-04
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
