@@ -434,3 +434,4 @@
 - https://leetcode.com/problems/apply-operations-to-maximize-score/
 - https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays/
 - https://leetcode.com/problems/put-marbles-in-bags/?envType=daily-question&envId=2025-03-31
+- https://leetcode.com/problems/expression-add-operators/
