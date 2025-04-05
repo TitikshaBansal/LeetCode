@@ -124,6 +124,7 @@
 - https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/
 - https://leetcode.com/problems/unique-3-digit-even-numbers/
 - https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/?envType=daily-question&envId=2025-04-02
+- https://leetcode.com/problems/sum-of-all-subset-xor-totals/?envType=daily-question&envId=2025-04-05
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
