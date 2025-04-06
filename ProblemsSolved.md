@@ -377,6 +377,7 @@
 - https://leetcode.com/problems/linked-list-cycle-ii/
 - https://leetcode.com/problems/integer-to-roman/
 - https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+- https://leetcode.com/problems/subarray-sum-equals-k/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
