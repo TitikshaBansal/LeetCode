@@ -126,6 +126,7 @@
 - https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/?envType=daily-question&envId=2025-04-02
 - https://leetcode.com/problems/sum-of-all-subset-xor-totals/?envType=daily-question&envId=2025-04-05
 - https://leetcode.com/problems/binary-tree-paths/
+- https://leetcode.com/problems/binary-search/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
