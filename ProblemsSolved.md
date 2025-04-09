@@ -390,6 +390,7 @@
 - https://leetcode.com/problems/single-element-in-a-sorted-array/
 - https://leetcode.com/problems/number-of-provinces/
 - https://leetcode.com/problems/number-of-islands/
+- https://leetcode.com/problems/shortest-bridge/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
