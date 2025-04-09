@@ -384,6 +384,7 @@
 - https://leetcode.com/problems/partition-equal-subset-sum/?envType=daily-question&envId=2025-04-07
 - https://leetcode.com/problems/4sum/
 - https://leetcode.com/problems/swap-nodes-in-pairs/
+- https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
