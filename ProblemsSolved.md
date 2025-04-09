@@ -128,6 +128,7 @@
 - https://leetcode.com/problems/binary-tree-paths/
 - https://leetcode.com/problems/binary-search/
 - https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/?envType=daily-question&envId=2025-04-08
+- https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/?envType=daily-question&envId=2025-04-09
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
