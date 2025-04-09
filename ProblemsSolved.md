@@ -385,6 +385,7 @@
 - https://leetcode.com/problems/4sum/
 - https://leetcode.com/problems/swap-nodes-in-pairs/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
+- https://leetcode.com/problems/single-element-in-a-sorted-array/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
