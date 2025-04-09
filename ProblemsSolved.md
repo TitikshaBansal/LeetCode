@@ -391,6 +391,7 @@
 - https://leetcode.com/problems/number-of-provinces/
 - https://leetcode.com/problems/number-of-islands/
 - https://leetcode.com/problems/shortest-bridge/
+- https://leetcode.com/problems/shortest-path-in-binary-matrix/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
