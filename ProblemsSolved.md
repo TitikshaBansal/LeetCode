@@ -386,6 +386,7 @@
 - https://leetcode.com/problems/swap-nodes-in-pairs/
 - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/
 - https://leetcode.com/problems/single-element-in-a-sorted-array/
+- https://leetcode.com/problems/number-of-provinces/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
