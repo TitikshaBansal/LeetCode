@@ -393,6 +393,7 @@
 - https://leetcode.com/problems/shortest-bridge/
 - https://leetcode.com/problems/shortest-path-in-binary-matrix/
 - https://leetcode.com/problems/surrounded-regions/
+- https://leetcode.com/problems/number-of-enclaves/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
