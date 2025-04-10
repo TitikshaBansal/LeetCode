@@ -394,6 +394,7 @@
 - https://leetcode.com/problems/shortest-path-in-binary-matrix/
 - https://leetcode.com/problems/surrounded-regions/
 - https://leetcode.com/problems/number-of-enclaves/
+- https://leetcode.com/problems/is-graph-bipartite/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
