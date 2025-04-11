@@ -461,3 +461,4 @@
 - https://leetcode.com/problems/expression-add-operators/
 - https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
 - https://leetcode.com/problems/count-the-number-of-powerful-integers/?envType=daily-question&envId=2025-04-10
+- https://leetcode.com/problems/permutation-sequence/
