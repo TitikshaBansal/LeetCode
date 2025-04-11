@@ -399,6 +399,7 @@
 - https://leetcode.com/problems/majority-element-ii/
 - https://leetcode.com/problems/subsets-ii/
 - https://leetcode.com/problems/subsets/
+- https://leetcode.com/problems/palindrome-partitioning/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
