@@ -400,6 +400,7 @@
 - https://leetcode.com/problems/subsets-ii/
 - https://leetcode.com/problems/subsets/
 - https://leetcode.com/problems/palindrome-partitioning/
+- https://leetcode.com/problems/generate-parentheses/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
