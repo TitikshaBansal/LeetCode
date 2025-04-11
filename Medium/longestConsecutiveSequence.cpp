@@ -6,7 +6,7 @@ public:
             set.insert(num);
         }
         int longestConsecutiveSequence = 0;
-        for(int num : s){
+        for(int num : set){
             if(set.find(num-1) == set.end()){
                 int currentNumber = num;
                 int currentConsecutiveSequence = 1;
