@@ -402,6 +402,7 @@
 - https://leetcode.com/problems/palindrome-partitioning/
 - https://leetcode.com/problems/generate-parentheses/
 - https://leetcode.com/problems/odd-even-linked-list/
+- https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
