@@ -408,6 +408,7 @@
 - https://leetcode.com/problems/rotate-list/
 - https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
 - https://leetcode.com/problems/sort-list/
+- https://leetcode.com/problems/copy-list-with-random-pointer/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
