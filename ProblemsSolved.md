@@ -407,6 +407,7 @@
 - https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
 - https://leetcode.com/problems/rotate-list/
 - https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/
+- https://leetcode.com/problems/sort-list/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
