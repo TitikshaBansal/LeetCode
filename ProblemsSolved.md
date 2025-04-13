@@ -403,6 +403,7 @@
 - https://leetcode.com/problems/generate-parentheses/
 - https://leetcode.com/problems/odd-even-linked-list/
 - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
+- https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
