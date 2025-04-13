@@ -405,6 +405,7 @@
 - https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 - https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 - https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+- https://leetcode.com/problems/rotate-list/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
