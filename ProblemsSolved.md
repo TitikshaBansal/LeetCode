@@ -413,6 +413,7 @@
 - https://leetcode.com/problems/copy-list-with-random-pointer/
 - https://leetcode.com/problems/count-the-number-of-good-subarrays/?envType=daily-question&envId=2025-04-16
 - https://leetcode.com/problems/rabbits-in-forest/?envType=daily-question&envId=2025-04-20
+- https://leetcode.com/problems/count-the-hidden-sequences/?envType=daily-question&envId=2025-04-21
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
