@@ -479,3 +479,4 @@
 - https://leetcode.com/problems/find-the-count-of-good-integers/?envType=daily-question&envId=2025-04-12
 - https://leetcode.com/problems/reverse-nodes-in-k-group/
 - https://leetcode.com/problems/count-good-triplets-in-an-array/?envType=daily-question&envId=2025-04-15
+- https://leetcode.com/problems/count-the-number-of-ideal-arrays/?envType=daily-question&envId=2025-04-22
