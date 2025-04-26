@@ -417,6 +417,7 @@
 - https://leetcode.com/problems/count-the-hidden-sequences/?envType=daily-question&envId=2025-04-21
 - https://leetcode.com/problems/count-complete-subarrays-in-an-array/?envType=daily-question&envId=2025-04-24
 - https://leetcode.com/problems/count-of-interesting-subarrays/?envType=daily-question&envId=2025-04-25
+- https://leetcode.com/problems/find-the-most-common-response/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
