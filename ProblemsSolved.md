@@ -483,3 +483,4 @@
 - https://leetcode.com/problems/reverse-nodes-in-k-group/
 - https://leetcode.com/problems/count-good-triplets-in-an-array/?envType=daily-question&envId=2025-04-15
 - https://leetcode.com/problems/count-the-number-of-ideal-arrays/?envType=daily-question&envId=2025-04-22
+- https://leetcode.com/problems/count-subarrays-with-fixed-bounds/?envType=daily-question&envId=2025-04-26
