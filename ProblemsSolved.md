@@ -135,6 +135,7 @@
 - https://leetcode.com/problems/count-good-triplets/?envType=daily-question&envId=2025-04-14
 - https://leetcode.com/problems/count-equal-and-divisible-pairs-in-an-array/?envType=daily-question&envId=2025-04-17
 - https://leetcode.com/problems/count-largest-group/?envType=daily-question&envId=2025-04-23
+- https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/?envType=daily-question&envId=2025-04-27
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
