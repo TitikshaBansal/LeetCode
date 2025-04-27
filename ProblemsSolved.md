@@ -491,3 +491,4 @@
 - https://leetcode.com/problems/count-subarrays-with-fixed-bounds/?envType=daily-question&envId=2025-04-26
 - https://leetcode.com/problems/maximum-profit-from-valid-topological-order-in-dag/
 - https://leetcode.com/problems/concatenated-divisibility/
+- https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/
