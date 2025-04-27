@@ -420,6 +420,7 @@
 - https://leetcode.com/problems/count-of-interesting-subarrays/?envType=daily-question&envId=2025-04-25
 - https://leetcode.com/problems/find-the-most-common-response/
 - https://leetcode.com/problems/unit-conversion-i/
+- https://leetcode.com/problems/count-covered-buildings/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
