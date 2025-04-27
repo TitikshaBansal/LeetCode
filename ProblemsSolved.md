@@ -421,6 +421,7 @@
 - https://leetcode.com/problems/find-the-most-common-response/
 - https://leetcode.com/problems/unit-conversion-i/
 - https://leetcode.com/problems/count-covered-buildings/
+- https://leetcode.com/problems/path-existence-queries-in-a-graph-i/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
