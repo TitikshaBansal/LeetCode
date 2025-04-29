@@ -422,6 +422,7 @@
 - https://leetcode.com/problems/unit-conversion-i/
 - https://leetcode.com/problems/count-covered-buildings/
 - https://leetcode.com/problems/path-existence-queries-in-a-graph-i/
+- https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2025-04-29
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
