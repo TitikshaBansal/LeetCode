@@ -495,3 +495,4 @@
 - https://leetcode.com/problems/concatenated-divisibility/
 - https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/
 - https://leetcode.com/problems/word-ladder/
+- https://leetcode.com/problems/maximum-number-of-tasks-you-can-assign/?envType=daily-question&envId=2025-05-01
