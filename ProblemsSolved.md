@@ -137,6 +137,7 @@
 - https://leetcode.com/problems/count-largest-group/?envType=daily-question&envId=2025-04-23
 - https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/?envType=daily-question&envId=2025-04-27
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/?envType=daily-question&envId=2025-04-30
+- https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
