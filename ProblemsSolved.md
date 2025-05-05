@@ -427,6 +427,7 @@
 - https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/?envType=daily-question&envId=2025-04-29
 - https://leetcode.com/problems/push-dominoes/?envType=daily-question&envId=2025-05-02
 - https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/?envType=daily-question&envId=2025-05-03
+- https://leetcode.com/problems/domino-and-tromino-tiling/?envType=daily-question&envId=2025-05-05
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
