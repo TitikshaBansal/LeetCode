@@ -138,6 +138,7 @@
 - https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/?envType=daily-question&envId=2025-04-27
 - https://leetcode.com/problems/find-numbers-with-even-number-of-digits/?envType=daily-question&envId=2025-04-30
 - https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04
+- https://leetcode.com/problems/build-array-from-permutation/?envType=daily-question&envId=2025-05-06
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
