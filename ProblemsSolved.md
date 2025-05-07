@@ -429,6 +429,7 @@
 - https://leetcode.com/problems/push-dominoes/?envType=daily-question&envId=2025-05-02
 - https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/?envType=daily-question&envId=2025-05-03
 - https://leetcode.com/problems/domino-and-tromino-tiling/?envType=daily-question&envId=2025-05-05
+- https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/?envType=daily-question&envId=2025-05-07
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
