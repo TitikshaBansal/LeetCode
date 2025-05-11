@@ -432,6 +432,7 @@
 - https://leetcode.com/problems/domino-and-tromino-tiling/?envType=daily-question&envId=2025-05-05
 - https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/?envType=daily-question&envId=2025-05-07
 - https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/
+- https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
