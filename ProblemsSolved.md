@@ -140,6 +140,7 @@
 - https://leetcode.com/problems/number-of-equivalent-domino-pairs/?envType=daily-question&envId=2025-05-04
 - https://leetcode.com/problems/build-array-from-permutation/?envType=daily-question&envId=2025-05-06
 - https://leetcode.com/problems/three-consecutive-odds/?envType=daily-question&envId=2025-05-11
+- https://leetcode.com/problems/finding-3-digit-even-numbers/?envType=daily-question&envId=2025-05-12
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
