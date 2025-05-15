@@ -141,6 +141,7 @@
 - https://leetcode.com/problems/build-array-from-permutation/?envType=daily-question&envId=2025-05-06
 - https://leetcode.com/problems/three-consecutive-odds/?envType=daily-question&envId=2025-05-11
 - https://leetcode.com/problems/finding-3-digit-even-numbers/?envType=daily-question&envId=2025-05-12
+- https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/?envType=daily-question&envId=2025-05-15
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
