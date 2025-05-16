@@ -436,6 +436,7 @@
 - https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/
 - https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/
 - https://leetcode.com/problems/total-characters-in-string-after-transformations-i/?envType=daily-question&envId=2025-05-13
+- https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/?envType=daily-question&envId=2025-05-16
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
