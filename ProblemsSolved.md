@@ -142,6 +142,7 @@
 - https://leetcode.com/problems/three-consecutive-odds/?envType=daily-question&envId=2025-05-11
 - https://leetcode.com/problems/finding-3-digit-even-numbers/?envType=daily-question&envId=2025-05-12
 - https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/?envType=daily-question&envId=2025-05-15
+- https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
