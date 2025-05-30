@@ -443,6 +443,7 @@
 - https://leetcode.com/problems/zero-array-transformation-i/?envType=daily-question&envId=2025-05-20
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/?envType=daily-question&envId=2025-05-25
 - https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/?envType=daily-question&envId=2025-05-28
+- https://leetcode.com/problems/find-closest-node-to-given-two-nodes/?envType=daily-question&envId=2025-05-30
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
