@@ -444,6 +444,8 @@
 - https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/?envType=daily-question&envId=2025-05-25
 - https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/?envType=daily-question&envId=2025-05-28
 - https://leetcode.com/problems/find-closest-node-to-given-two-nodes/?envType=daily-question&envId=2025-05-30
+- https://leetcode.com/problems/distribute-candies-among-children-ii/?envType=daily-question&envId=2025-06-01
+- https://leetcode.com/problems/snakes-and-ladders/?envType=daily-question&envId=2025-05-31
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
