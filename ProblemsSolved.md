@@ -447,6 +447,7 @@
 - https://leetcode.com/problems/distribute-candies-among-children-ii/?envType=daily-question&envId=2025-06-01
 - https://leetcode.com/problems/snakes-and-ladders/?envType=daily-question&envId=2025-05-31
 - https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/?envType=daily-question&envId=2025-06-04
+- https://leetcode.com/problems/lexicographically-smallest-equivalent-string/?envType=daily-question&envId=2025-06-05
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
