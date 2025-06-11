@@ -145,6 +145,7 @@
 - https://leetcode.com/problems/type-of-triangle/?envType=daily-question&envId=2025-05-19
 - https://leetcode.com/problems/find-words-containing-character/?envType=daily-question&envId=2025-05-24
 - https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/?envType=daily-question&envId=2025-05-27
+- https://leetcode.com/problems/remove-outermost-parentheses/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
@@ -448,6 +449,7 @@
 - https://leetcode.com/problems/snakes-and-ladders/?envType=daily-question&envId=2025-05-31
 - https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/?envType=daily-question&envId=2025-06-04
 - https://leetcode.com/problems/lexicographically-smallest-equivalent-string/?envType=daily-question&envId=2025-06-05
+- https://leetcode.com/problems/reverse-words-in-a-string/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
