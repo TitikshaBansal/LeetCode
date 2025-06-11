@@ -147,6 +147,7 @@
 - https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/?envType=daily-question&envId=2025-05-27
 - https://leetcode.com/problems/remove-outermost-parentheses/
 - https://leetcode.com/problems/largest-odd-number-in-string/
+- https://leetcode.com/problems/rotate-string/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
