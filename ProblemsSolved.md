@@ -148,6 +148,7 @@
 - https://leetcode.com/problems/remove-outermost-parentheses/
 - https://leetcode.com/problems/largest-odd-number-in-string/
 - https://leetcode.com/problems/rotate-string/
+- https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
