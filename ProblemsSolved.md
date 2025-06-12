@@ -454,6 +454,7 @@
 - https://leetcode.com/problems/lexicographically-smallest-equivalent-string/?envType=daily-question&envId=2025-06-05
 - https://leetcode.com/problems/reverse-words-in-a-string/
 - https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
+- https://leetcode.com/problems/lexicographical-numbers/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
