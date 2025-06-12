@@ -149,6 +149,7 @@
 - https://leetcode.com/problems/largest-odd-number-in-string/
 - https://leetcode.com/problems/rotate-string/
 - https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
+- https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/?envType=daily-question&envId=2025-06-12
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
