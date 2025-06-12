@@ -459,6 +459,7 @@
 - https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/
 - https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/
+- https://leetcode.com/problems/delete-node-in-a-bst/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
