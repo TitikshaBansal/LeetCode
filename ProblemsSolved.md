@@ -455,6 +455,7 @@
 - https://leetcode.com/problems/reverse-words-in-a-string/
 - https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 - https://leetcode.com/problems/lexicographical-numbers/
+- https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
