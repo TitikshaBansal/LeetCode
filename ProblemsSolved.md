@@ -453,6 +453,7 @@
 - https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/?envType=daily-question&envId=2025-06-04
 - https://leetcode.com/problems/lexicographically-smallest-equivalent-string/?envType=daily-question&envId=2025-06-05
 - https://leetcode.com/problems/reverse-words-in-a-string/
+- https://leetcode.com/problems/sum-of-beauty-of-all-substrings/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
