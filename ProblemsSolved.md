@@ -462,6 +462,7 @@
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/
 - https://leetcode.com/problems/delete-node-in-a-bst/
 - https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/?envType=daily-question&envId=2025-06-13
+- https://leetcode.com/problems/recover-binary-search-tree/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
