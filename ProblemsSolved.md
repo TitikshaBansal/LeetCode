@@ -461,6 +461,7 @@
 - https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/
 - https://leetcode.com/problems/insert-into-a-binary-search-tree/
 - https://leetcode.com/problems/delete-node-in-a-bst/
+- https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/?envType=daily-question&envId=2025-06-13
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
