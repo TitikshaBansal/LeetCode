@@ -464,6 +464,7 @@
 - https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/?envType=daily-question&envId=2025-06-13
 - https://leetcode.com/problems/recover-binary-search-tree/
 - https://leetcode.com/problems/binary-search-tree-iterator/
+- https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
