@@ -151,6 +151,7 @@
 - https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
 - https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/?envType=daily-question&envId=2025-06-12
 - https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
+- https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/?envType=daily-question&envId=2025-06-14
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
