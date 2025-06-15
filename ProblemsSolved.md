@@ -467,6 +467,7 @@
 - https://leetcode.com/problems/binary-search-tree-iterator/
 - https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
 - https://leetcode.com/problems/max-difference-you-can-get-from-changing-an-integer/?envType=daily-question&envId=2025-06-15
+- https://leetcode.com/problems/maximum-width-of-binary-tree/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
