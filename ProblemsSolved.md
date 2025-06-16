@@ -154,6 +154,7 @@
 - https://leetcode.com/problems/maximum-difference-by-remapping-a-digit/?envType=daily-question&envId=2025-06-14
 - https://leetcode.com/problems/root-equals-sum-of-children/
 - https://leetcode.com/problems/count-complete-tree-nodes/
+- https://leetcode.com/problems/maximum-difference-between-increasing-elements/?envType=daily-question&envId=2025-06-16
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
