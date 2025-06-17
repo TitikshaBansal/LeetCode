@@ -552,3 +552,4 @@
 - https://leetcode.com/problems/candy/?envType=daily-question&envId=2025-06-02
 - https://leetcode.com/problems/maximum-candies-you-can-get-from-boxes/?envType=daily-question&envId=2025-06-03
 - https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/
+- https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/?envType=daily-question&envId=2025-06-17
