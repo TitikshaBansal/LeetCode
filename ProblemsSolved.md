@@ -474,6 +474,7 @@
 - https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/?envType=daily-question&envId=2025-06-18
 - https://leetcode.com/problems/longest-repeating-character-replacement/
 - https://leetcode.ca/all/249.html
+- https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/?envType=daily-question&envId=2025-06-19
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
