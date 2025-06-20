@@ -475,6 +475,7 @@
 - https://leetcode.com/problems/longest-repeating-character-replacement/
 - https://leetcode.ca/all/249.html
 - https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/?envType=daily-question&envId=2025-06-19
+- https://leetcode.com/problems/subdomain-visit-count/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
