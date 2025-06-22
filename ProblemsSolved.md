@@ -562,3 +562,4 @@
 - https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/?envType=daily-question&envId=2025-06-17
 - https://leetcode.com/problems/binary-tree-cameras/
 - https://leetcode.com/problems/super-egg-drop/
+- https://leetcode.com/problems/count-fertile-pyramids-in-a-land/
