@@ -480,6 +480,7 @@
 - https://leetcode.com/problems/subdomain-visit-count/
 - https://leetcode.com/problems/minimum-deletions-to-make-string-k-special/?envType=daily-question&envId=2025-06-21
 - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
+- https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
