@@ -483,6 +483,7 @@
 - https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/
 - https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 - https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/?envType=daily-question&envId=2025-06-26
+- https://leetcode.com/problems/next-greater-element-ii/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
