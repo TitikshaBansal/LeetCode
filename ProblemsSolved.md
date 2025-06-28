@@ -158,6 +158,7 @@
 - https://leetcode.com/problems/divide-a-string-into-groups-of-size-k/?envType=daily-question&envId=2025-06-22
 - https://leetcode.com/problems/find-all-k-distant-indices-in-an-array/?envType=daily-question&envId=2025-06-24
 - https://leetcode.com/problems/next-greater-element-i/
+- https://leetcode.com/problems/smallest-range-i/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
