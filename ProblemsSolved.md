@@ -160,6 +160,7 @@
 - https://leetcode.com/problems/next-greater-element-i/
 - https://leetcode.com/problems/smallest-range-i/
 - https://leetcode.com/problems/implement-stack-using-queues/
+- https://leetcode.com/problems/implement-queue-using-stacks/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
