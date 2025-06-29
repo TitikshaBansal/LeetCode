@@ -491,6 +491,7 @@
 - https://leetcode.com/problems/partition-string/
 - https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/
 - https://leetcode.com/problems/partition-array-to-minimize-xor/
+- https://leetcode.com/problems/min-stack/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
