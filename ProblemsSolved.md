@@ -487,6 +487,7 @@
 - https://leetcode.com/problems/next-greater-element-ii/
 - https://leetcode.com/problems/smallest-range-ii/
 - https://leetcode.com/problems/partition-string/
+- https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
