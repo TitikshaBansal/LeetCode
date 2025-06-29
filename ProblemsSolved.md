@@ -486,6 +486,7 @@
 - https://leetcode.com/problems/longest-binary-subsequence-less-than-or-equal-to-k/?envType=daily-question&envId=2025-06-26
 - https://leetcode.com/problems/next-greater-element-ii/
 - https://leetcode.com/problems/smallest-range-ii/
+- https://leetcode.com/problems/partition-string/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
