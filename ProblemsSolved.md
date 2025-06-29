@@ -488,6 +488,7 @@
 - https://leetcode.com/problems/smallest-range-ii/
 - https://leetcode.com/problems/partition-string/
 - https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals/
+- https://leetcode.com/problems/partition-array-to-minimize-xor/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
