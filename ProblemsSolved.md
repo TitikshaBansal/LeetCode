@@ -493,6 +493,7 @@
 - https://leetcode.com/problems/partition-array-to-minimize-xor/
 - https://leetcode.com/problems/min-stack/
 - https://leetcode.com/problems/sum-of-subarray-minimums/
+- https://leetcode.com/problems/asteroid-collision/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
