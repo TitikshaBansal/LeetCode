@@ -499,6 +499,7 @@
 - https://leetcode.com/problems/max-consecutive-ones-iii/
 - https://leetcode.com/problems/fruit-into-baskets/
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+- https://leetcode.com/problems/sum-of-subarray-ranges/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
