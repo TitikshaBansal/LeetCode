@@ -498,6 +498,7 @@
 - https://leetcode.com/problems/asteroid-collision/
 - https://leetcode.com/problems/max-consecutive-ones-iii/
 - https://leetcode.com/problems/fruit-into-baskets/
+- https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
