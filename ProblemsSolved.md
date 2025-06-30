@@ -592,3 +592,4 @@
 - https://leetcode.com/problems/subarrays-with-k-different-integers/
 - https://leetcode.com/problems/minimum-window-substring/
 - https://leetcode.com/problems/largest-rectangle-in-histogram/
+- https://leetcode.com/problems/maximal-rectangle/
