@@ -162,6 +162,7 @@
 - https://leetcode.com/problems/implement-stack-using-queues/
 - https://leetcode.com/problems/implement-queue-using-stacks/
 - https://leetcode.com/problems/longest-harmonious-subsequence/?envType=daily-question&envId=2025-06-30
+- https://leetcode.com/problems/guess-number-higher-or-lower/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
