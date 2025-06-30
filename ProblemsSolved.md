@@ -497,6 +497,7 @@
 - https://leetcode.com/problems/sum-of-subarray-minimums/
 - https://leetcode.com/problems/asteroid-collision/
 - https://leetcode.com/problems/max-consecutive-ones-iii/
+- https://leetcode.com/problems/fruit-into-baskets/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
