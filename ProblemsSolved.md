@@ -591,3 +591,4 @@
 - https://leetcode.com/problems/longest-subsequence-repeated-k-times/?envType=daily-question&envId=2025-06-27
 - https://leetcode.com/problems/subarrays-with-k-different-integers/
 - https://leetcode.com/problems/minimum-window-substring/
+- https://leetcode.com/problems/largest-rectangle-in-histogram/
