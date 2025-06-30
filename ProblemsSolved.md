@@ -500,6 +500,7 @@
 - https://leetcode.com/problems/fruit-into-baskets/
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 - https://leetcode.com/problems/sum-of-subarray-ranges/
+- https://leetcode.com/problems/remove-k-digits/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
