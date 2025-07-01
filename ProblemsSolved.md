@@ -164,6 +164,7 @@
 - https://leetcode.com/problems/longest-harmonious-subsequence/?envType=daily-question&envId=2025-06-30
 - https://leetcode.com/problems/guess-number-higher-or-lower/
 - https://leetcode.com/problems/find-the-original-typed-string-i/?envType=daily-question&envId=2025-07-01
+- https://leetcode.com/problems/calculate-delayed-arrival-time/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
