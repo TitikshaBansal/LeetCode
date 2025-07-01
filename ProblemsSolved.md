@@ -166,6 +166,7 @@
 - https://leetcode.com/problems/find-the-original-typed-string-i/?envType=daily-question&envId=2025-07-01
 - https://leetcode.com/problems/calculate-delayed-arrival-time/
 - https://leetcode.com/problems/most-frequent-even-element/
+- https://leetcode.com/problems/add-to-array-form-of-integer/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
