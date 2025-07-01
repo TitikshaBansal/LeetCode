@@ -502,6 +502,7 @@
 - https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 - https://leetcode.com/problems/sum-of-subarray-ranges/
 - https://leetcode.com/problems/remove-k-digits/
+- https://leetcode.com/problems/online-stock-span/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
