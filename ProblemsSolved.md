@@ -506,6 +506,7 @@
 - https://leetcode.com/problems/sum-of-subarray-ranges/
 - https://leetcode.com/problems/remove-k-digits/
 - https://leetcode.com/problems/online-stock-span/
+- https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
