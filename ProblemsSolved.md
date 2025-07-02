@@ -167,6 +167,7 @@
 - https://leetcode.com/problems/calculate-delayed-arrival-time/
 - https://leetcode.com/problems/most-frequent-even-element/
 - https://leetcode.com/problems/add-to-array-form-of-integer/
+- https://leetcode.com/problems/unique-number-of-occurrences/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
