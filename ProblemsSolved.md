@@ -509,6 +509,7 @@
 - https://leetcode.com/problems/online-stock-span/
 - https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/
 - https://leetcode.com/problems/find-peak-element/
+- https://leetcode.com/problems/heaters/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
