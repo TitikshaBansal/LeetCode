@@ -599,3 +599,4 @@
 - https://leetcode.com/problems/largest-rectangle-in-histogram/
 - https://leetcode.com/problems/maximal-rectangle/
 - https://leetcode.com/problems/sliding-window-maximum/
+- https://leetcode.com/problems/find-the-original-typed-string-ii/?envType=daily-question&envId=2025-07-02
