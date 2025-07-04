@@ -605,3 +605,4 @@
 - https://leetcode.com/problems/maximal-rectangle/
 - https://leetcode.com/problems/sliding-window-maximum/
 - https://leetcode.com/problems/find-the-original-typed-string-ii/?envType=daily-question&envId=2025-07-02
+- https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/?envType=daily-question&envId=2025-07-04
