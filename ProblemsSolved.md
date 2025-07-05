@@ -170,6 +170,7 @@
 - https://leetcode.com/problems/unique-number-of-occurrences/
 - https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/?envType=daily-question&envId=2025-07-03
 - https://leetcode.com/problems/count-pairs-of-similar-strings/
+- https://leetcode.com/problems/find-lucky-integer-in-an-array/?envType=daily-question&envId=2025-07-05
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
