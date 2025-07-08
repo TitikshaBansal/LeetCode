@@ -614,3 +614,4 @@
 - https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/?envType=daily-question&envId=2025-07-04
 - https://leetcode.com/problems/count-special-integers/
 - https://leetcode.com/problems/number-of-paths-with-max-score/
+- https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended-ii/?envType=daily-question&envId=2025-07-08
