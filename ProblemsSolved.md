@@ -172,6 +172,7 @@
 - https://leetcode.com/problems/count-pairs-of-similar-strings/
 - https://leetcode.com/problems/find-lucky-integer-in-an-array/?envType=daily-question&envId=2025-07-05
 - https://leetcode.com/problems/not-boring-movies/
+- https://leetcode.com/problems/fizz-buzz/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
