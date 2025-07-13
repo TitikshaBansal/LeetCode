@@ -517,6 +517,7 @@
 - https://leetcode.com/problems/finding-pairs-with-a-certain-sum/?envType=daily-question&envId=2025-07-06
 - https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/?envType=daily-question&envId=2025-07-07
 - https://leetcode.com/problems/sort-integers-by-the-power-value/
+- https://leetcode.com/problems/maximum-matching-of-players-with-trainers/?envType=daily-question&envId=2025-07-13
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
