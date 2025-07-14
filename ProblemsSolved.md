@@ -521,6 +521,7 @@
 - https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/?envType=daily-question&envId=2025-07-07
 - https://leetcode.com/problems/sort-integers-by-the-power-value/
 - https://leetcode.com/problems/maximum-matching-of-players-with-trainers/?envType=daily-question&envId=2025-07-13
+- https://leetcode.com/problems/search-a-2d-matrix-ii/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
