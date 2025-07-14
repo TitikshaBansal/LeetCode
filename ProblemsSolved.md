@@ -174,6 +174,7 @@
 - https://leetcode.com/problems/not-boring-movies/
 - https://leetcode.com/problems/fizz-buzz/
 - https://leetcode.com/problems/kth-missing-positive-number/
+- https://leetcode.com/problems/row-with-maximum-ones/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
