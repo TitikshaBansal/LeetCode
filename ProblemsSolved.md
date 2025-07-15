@@ -524,6 +524,7 @@
 - https://leetcode.com/problems/maximum-matching-of-players-with-trainers/?envType=daily-question&envId=2025-07-13
 - https://leetcode.com/problems/search-a-2d-matrix-ii/
 - https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/
+- https://leetcode.com/problems/koko-eating-bananas/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
