@@ -176,6 +176,7 @@
 - https://leetcode.com/problems/kth-missing-positive-number/
 - https://leetcode.com/problems/row-with-maximum-ones/
 - https://leetcode.com/problems/valid-word/?envType=daily-question&envId=2025-07-15
+- https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
