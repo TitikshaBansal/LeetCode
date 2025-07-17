@@ -531,6 +531,7 @@
 - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 - https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/?envType=daily-question&envId=2025-07-16
 - https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/?envType=daily-question&envId=2025-07-17
+- https://leetcode.com/problems/count-primes/
 
 # Hard
 - https://leetcode.com/problems/median-of-two-sorted-arrays/description/
