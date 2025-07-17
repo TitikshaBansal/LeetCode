@@ -178,6 +178,7 @@
 - https://leetcode.com/problems/valid-word/?envType=daily-question&envId=2025-07-15
 - https://leetcode.com/problems/minimum-bit-flips-to-convert-number/
 - https://leetcode.com/problems/xor-operation-in-an-array/
+- https://leetcode.com/problems/perfect-number/
 
 # Medium
 - https://leetcode.com/problems/minimum-time-to-complete-trips/description/
